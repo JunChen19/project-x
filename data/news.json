@@ -109,7 +109,56 @@
         "id": "world-006"
       }
     ],
-    "finance": [],
+    "finance": [
+      {
+        "title": "Nvidia 宣布扩大美国本土制造计划",
+        "summary": "Nvidia 宣布将大幅扩大其在美国本土的制造业务，与台积电等合作伙伴在美国建设更多芯片生产设施，以应对地缘政治风险和供应链安全担忧。",
+        "source": "The Business Journals",
+        "url": "https://www.bizjournals.com/bizjournals/news/2026/03/06/nvidia-expanding-us-manufacturing-operations.html",
+        "published_at": "2026-03-06T09:00:00+08:00",
+        "id": "finance-001"
+      },
+      {
+        "title": "特朗普签署临时预算延长法案避免政府停摆",
+        "summary": "特朗普总统签署了一项临时预算延长法案，将政府资金延长至下一财年，成功避免了联邦政府停摆的风险。该法案获得国会两党支持。",
+        "source": "Pehal News",
+        "url": "https://www.pehalnews.in/trump-signs-stopgap-spending-bill-to-avert-government-shutdown/82853/",
+        "published_at": "2026-03-08T22:00:00+08:00",
+        "id": "finance-002"
+      },
+      {
+        "title": "美国职位空缺数据将于周二发布",
+        "summary": "美国劳工统计局将于周二发布最新的职位空缺和劳动力流动调查数据，投资者将密切关注劳动力市场健康状况的信号。",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/economic-indicators/us-jolts-job-openings-data-due-tuesday-4132576",
+        "published_at": "2026-03-10T08:00:00+08:00",
+        "id": "finance-003"
+      },
+      {
+        "title": "加拿大失业率维持在 6.5%",
+        "summary": "加拿大统计局公布最新就业数据显示，失业率维持在 6.5% 不变，就业市场表现相对稳定，但经济学家警告全球经济不确定性可能带来压力。",
+        "source": "Castanet.net",
+        "url": "https://www.castanet.net/news/Business/509844/Unemployment-rate-holds-steady-at-6-5",
+        "published_at": "2026-03-06T14:30:00+08:00",
+        "id": "finance-004"
+      },
+      {
+        "title": "特斯拉股价本周波动加剧",
+        "summary": "特斯拉股价本周经历大幅波动，投资者对公司电动车需求前景和马斯克其他商业事务的影响表示担忧。分析师对股价走势意见分歧。",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/equities/nvidia-corp",
+        "published_at": "2026-03-07T16:00:00+08:00",
+        "id": "finance-005"
+      },
+      {
+        "title": "新泽西州大西洋城赌场诉讼案开庭",
+        "summary": "新泽西州最高法院开始审理大西洋城赌场相关诉讼案，该案可能对大西洋城博彩业和当地经济产生重大影响。",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/supreme-court-hear-atlantic-city-153000000.html",
+        "published_at": "2026-03-09T15:30:00+08:00",
+        "id": "finance-006"
+      }
+    ],
     "llm": []
   }
 }
