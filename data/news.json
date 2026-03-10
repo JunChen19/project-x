@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T17:51:30.000000+08:00",
+  "lastUpdated": "2026-03-10T17:53:00.000000+08:00",
   "hero": {
     "title": "xAI 未能阻止加州 AI 数据披露法律生效",
     "summary": "Elon Musk 旗下的 xAI 公司试图通过法院临时禁令阻止加州 AI 数据披露法律的执行，但加州联邦法院周四驳回了这一请求。该法律要求生成式 AI 公司公开其训练数据集的摘要，已于 1 月 1 日生效。",
@@ -59,7 +59,56 @@
         "id": "ai-006"
       }
     ],
-    "world": [],
+    "world": [
+      {
+        "title": "第七名美军士兵在伊朗军事行动中阵亡",
+        "summary": "美国中央司令部确认第七名美军士兵在伊朗军事行动中阵亡，使美军在此次行动中的死亡人数进一步上升。该行动正在持续进行中。",
+        "source": "Hawaii Tribune-Herald",
+        "url": "https://www.hawaiitribune-herald.com/2026/03/08/hawaii-news/7th-us-service-member-killed-in-iran-military-operation/",
+        "published_at": "2026-03-08T08:00:00+08:00",
+        "id": "world-001"
+      },
+      {
+        "title": "中国准备应对伊朗战争导致的能源中断",
+        "summary": "由于伊朗战争持续，中国正在制定计划应对可能的能源供应中断。作为全球最大的石油进口国之一，中国高度依赖中东地区的能源供应。",
+        "source": "World News Live",
+        "url": "https://www.worldnewslive.co.uk/china-prepares-for-energy-disruption-due-to-iran-war/",
+        "published_at": "2026-03-09T10:30:00+08:00",
+        "id": "world-002"
+      },
+      {
+        "title": "国际社会关注被关押在伊朗的美国囚犯",
+        "summary": "随着伊朗军事冲突升级，国际社会对被关押在伊朗的美国囚犯的担忧日益增加。多个组织呼吁各方确保囚犯安全。",
+        "source": "Republic World",
+        "url": "https://www.republicworld.com/world/us/concerns-grow-over-us-prisoners-held-in-iran-as-war-continues",
+        "published_at": "2026-03-09T14:15:00+08:00",
+        "id": "world-003"
+      },
+      {
+        "title": "加拿大总理谴责伊朗战争破坏世界秩序",
+        "summary": "加拿大总理发表声明，称伊朗战争是世界秩序破裂的极端例子，呼吁国际社会采取行动维护全球稳定与和平。",
+        "source": "Castanet.net",
+        "url": "https://www.castanet.net/news/World/509901/Iran-war-is-extreme-example-of-world-order-breaking-down-PM",
+        "published_at": "2026-03-04T16:00:00+08:00",
+        "id": "world-004"
+      },
+      {
+        "title": "伊朗新任最高领袖 Mojtaba Khamenei 是谁",
+        "summary": "随着伊朗政权更迭，Mojtaba Khamenei 成为新任最高领袖。国际媒体纷纷分析其背景及其对伊朗未来走向的影响。",
+        "source": "Olean Times Herald",
+        "url": "https://www.oleantimesherald.com/news/who-is-mojtaba-khamenei-new-supreme-leader-of-iran/article_74f0ec04-fae7-11ef-9c63-77a589a46529.html",
+        "published_at": "2026-03-08T18:00:00+08:00",
+        "id": "world-005"
+      },
+      {
+        "title": "国际妇女节全球抗议活动此起彼伏",
+        "summary": "3月8日国际妇女节当天，全球多国举行抗议活动，呼吁性别平等、反对暴力与歧视。活动覆盖欧洲、美洲、亚洲等多个地区。",
+        "source": "WXXI News",
+        "url": "https://wxxinews.org/world-news/2026-03-08/protests-around-the-world-mark-international-womens-day-2",
+        "published_at": "2026-03-08T20:00:00+08:00",
+        "id": "world-006"
+      }
+    ],
     "finance": [],
     "llm": []
   }
