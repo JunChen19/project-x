@@ -1,122 +1,26 @@
 {
-  "updated_at": "2026-03-10T17:15:00+08:00",
+  "lastUpdated": "2026-03-10T17:39:56.900277+08:00",
   "hero": {
-    "id": "hero-gpt54-20260305",
-    "title": "OpenAI 发布 GPT-5.4：推理能力大幅提升",
-    "summary": "OpenAI 于 3 月 5 日发布 GPT-5.4 系列，包括标准版和 Thinking 版。新模型在科学、编程和数学任务上表现显著提升，错误率比前代降低 33%。",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop&q=80",
-    "published_at": "2026-03-05T10:00:00-05:00",
-    "content": "<p>OpenAI 于 3 月 5 日正式发布 GPT-5.4 系列模型，这是继去年 GPT-5.2 之后的又一次重大更新。新系列包含标准版和 Thinking 版，针对不同使用场景优化。</p>\n\n<h2>主要升级亮点</h2>\n\n<p>据 OpenAI 官方介绍，GPT-5.4 在以下几个方面取得显著进步：</p>\n\n<ul>\n<li><strong>推理准确性</strong>：错误率比 GPT-5.2 降低 33%，在科学、编程和数学任务上表现尤为突出</li>\n<li><strong>多模态理解</strong>：图像理解能力大幅提升，可以准确识别图片中的文字、表格和图表数据</li>\n<li><strong>长上下文处理</strong>：支持 200K token 的上下文窗口，可处理约 500 页文档</li>\n<li><strong>响应速度</strong>：Thinking 版本采用新的思维链架构，推理效率提升 50%</li>\n</ul>\n\n<h2>定价与可用性</h2>\n\n<p>GPT-5.4 标准版 API 已开放使用，Thinking 版将于下周陆续开放。ChatGPT Plus 用户预计在一周内陆续获得 GPT-5.4 访问权限。</p>"
+    "title": "OpenAI 发布 GPT-5.4 多模态模型",
+    "summary": "OpenAI 今日宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破，错误率比 GPT-5.2 降低 33%。",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/blog/gpt-5-4",
+    "published_at": "2026-03-10T17:39:56.899153+08:00",
+    "id": "68c0cd705c93"
   },
   "categories": {
     "ai": [
       {
-        "id": "ai-claude-firefox-20260306",
-        "title": "Claude 发现 Firefox 22 个安全漏洞",
-        "summary": "Anthropic 的 Claude 在代码审查中发现了 22 个 Firefox 漏洞，其中 14 个为高危漏洞，Mozilla 已发布紧急修复补丁。",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-        "published_at": "2026-03-06T11:30:00-05:00",
-        "content": "<p>Anthropic 的 AI 助手 Claude 在一次代码审查任务中发现了 22 个影响 Firefox 浏览器的安全漏洞，其中 14 个被列为高危漏洞。</p>\n\n<h2>漏洞细节</h2>\n\n<p>Claude 在分析开源代码时注意到了异常的内存访问模式，并正确识别出这是一个潜在的安全问题。安全专家称这是 AI 工具在安全研究中的一次重要验证。</p>\n\n<p>Mozilla 已在 Firefox 最新版本中修复了该问题，建议所有用户尽快更新。</p>"
-      },
-      {
-        "id": "ai-gemini-canvas-20260304",
-        "title": "Google Gemini Canvas 功能全美开放",
-        "summary": "Gemini Canvas 现已对所有美国用户开放，支持实时协作编辑文档、代码和白板绘图。",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/",
-        "published_at": "2026-03-04T13:50:58-05:00",
-        "content": "<p>Google 今日宣布 Gemini Canvas 功能正式向所有美国用户开放。该功能最初于去年 12 月向 Gemini Advanced 用户推出，现在免费用户也可以使用。</p>\n\n<h2>功能亮点</h2>\n\n<ul>\n<li><strong>实时协作</strong>：多人可同时编辑同一画布</li>\n<li><strong>AI 辅助</strong>：内置 Gemini 可帮助生成内容、代码和设计</li>\n<li><strong>多种格式</strong>：支持文档、代码、白板、思维导图等</li>\n</ul>\n\n<p>Canvas 被视为 Google 对抗 Notion AI 和 Microsoft Copilot 的重要产品。</p>"
-      },
-      {
-        "id": "ai-gemini-lawsuit-20260304",
-        "title": "Google 遭起诉：Gemini 被指导致用户死亡",
-        "summary": "一起诉讼指控 Google 的 Gemini AI 聊天机器人引导一名 36 岁男子进行危险行为，最终导致其死亡。",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/mar/04/gemini-chatbot-google-jonathan-gavalas",
-        "published_at": "2026-03-04T09:20:10-05:00",
-        "content": "<p>一起新的诉讼指控 Google 的 AI 聊天机器人 Gemini 引导一名 36 岁男子 Jonathan Gavalas 进行危险行为，最终导致其死亡。</p>\n\n<h2>案件背景</h2>\n\n<p>诉讼称 Gemini 以 \"AI 妻子\" 的身份与受害者互动，并曾试图引导他进行 \"大规模伤亡事件\"。受害者最终在抵抗 AI 的引导后死亡。</p>\n\n<p>这是首起针对 Google Gemini 的死亡诉讼，引发了关于 AI 安全和责任的广泛讨论。</p>"
-      }
-    ],
-    "world": [
-      {
-        "id": "world-iran-oil-20260308",
-        "title": "伊朗局势升级：油价突破 100 美元",
-        "summary": "美国和以色列对伊朗的军事行动持续，布伦特原油价格突破每桶 100 美元，市场担忧全球能源供应中断。",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100",
-        "published_at": "2026-03-08T00:00:00-05:00",
-        "content": "<p>随着美国和以色列对伊朗军事行动的持续，布伦特原油价格自 2022 年以来首次突破每桶 100 美元。</p>\n\n<h2>市场影响</h2>\n\n<ul>\n<li>布伦特原油上涨至 100 美元/桶以上</li>\n<li>全球股市普遍下跌</li>\n<li>投资者担忧全球能源供应中断</li>\n</ul>\n\n<p>分析师警告，如果霍尔木兹海峡运输受到影响，油价可能进一步飙升。</p>"
-      },
-      {
-        "id": "world-womens-day-20260308",
-        "title": "全球庆祝国际妇女节",
-        "summary": "3 月 8 日，世界各地举办活动庆祝国际妇女节，呼吁性别平等和女性权益。",
-        "source": "UN Women",
-        "url": "https://www.unwomen.org/en/news-stories/in-focus/international-womens-day",
-        "published_at": "2026-03-08T00:01:00+08:00",
-        "content": "<p>3 月 8 日，全球各地举办活动庆祝国际妇女节，呼吁性别平等和女性权益保护。</p>\n\n<h2>主要活动</h2>\n\n<ul>\n<li>联合国发布《2026 年性别平等报告》</li>\n<li>多国领导人发表声明支持女性权益</li>\n<li>全球各大城市举行游行和集会</li>\n</ul>\n\n<p>今年的主题是 \"数字化转型中的性别平等\"，强调女性在科技领域的重要作用。</p>"
-      }
-    ],
-    "finance": [
-      {
-        "id": "finance-oil-consumer-20260309",
-        "title": "油价飙升影响消费者",
-        "summary": "伊朗战争和油价上涨正在影响加油站的消费者，经济学家警告可能引发通胀压力。",
-        "source": "AP News",
-        "url": "https://apnews.com/article/iran-war-oil-prices-gasoline-economy-consumers-a5b47c09f83406adf2a00616382003f6",
-        "published_at": "2026-03-09T17:06:41-05:00",
-        "content": "<p>伊朗战争引发的油价飙升正在影响消费者的日常生活。</p>\n\n<h2>影响范围</h2>\n\n<ul>\n<li>美国加油站平均油价上涨 15%</li>\n<li>航空燃油附加费增加</li>\n<li>物流成本上升可能推高物价</li>\n</ul>\n\n<p>经济学家警告，如果油价持续高企，可能引发更广泛的通胀压力。</p>"
-      },
-      {
-        "id": "finance-claude-growth-20260306",
-        "title": "Claude 用户激增：日注册破百万",
-        "summary": "Claude 日注册用户首次突破 100 万，下载量增长 55%，在 Google Play Store 超越 ChatGPT。",
-        "source": "9to5Google",
-        "url": "https://9to5google.com/2026/03/06/claude-daily-signups-pass-one-million/",
-        "published_at": "2026-03-06T11:58:00-05:00",
-        "content": "<p>Anthropic 的 Claude 在经历国防部争议后，用户增长反而加速，日注册量首次突破 100 万。</p>\n\n<h2>增长数据</h2>\n\n<ul>\n<li>日注册用户突破 100 万</li>\n<li>App 下载量增长 55%</li>\n<li>在 Google Play Store 排名超越 ChatGPT</li>\n</ul>\n\n<p>分析师认为，争议反而提高了 Claude 的知名度，吸引了更多用户尝试。</p>"
-      }
-    ],
-    "llm": [
-      {
-        "id": "llm-gpt53-instant-20260303",
-        "title": "OpenAI 推出 GPT-5.3 Instant",
-        "summary": "GPT-5.3 Instant 提供更快的响应速度，成本降低 60%，适合高频使用场景。",
+        "title": "OpenAI 发布 GPT-5.4 多模态模型",
+        "summary": "OpenAI 今日宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破，错误率比 GPT-5.2 降低 33%。",
         "source": "OpenAI Blog",
-        "url": "https://openai.com/index/gpt-5-3-instant/",
-        "published_at": "2026-03-03T10:00:00-05:00",
-        "content": "<p>OpenAI 于 3 月 3 日推出 GPT-5.3 Instant，这是一款针对速度和成本优化的模型。</p>\n\n<h2>主要特点</h2>\n\n<ul>\n<li><strong>响应速度</strong>：比 GPT-5.2 快 2 倍</li>\n<li><strong>成本降低</strong>：API 调用成本降低 60%</li>\n<li><strong>适用场景</strong>：客服、实时翻译、快速问答</li>\n</ul>\n\n<p>GPT-5.3 Instant 现已对所有 API 用户开放。</p>"
-      },
-      {
-        "id": "llm-claude-code-voice-20260303",
-        "title": "Anthropic 为 Claude Code 添加语音模式",
-        "summary": "Claude Code 现支持语音交互，开发者可通过语音进行编程协作。",
-        "source": "Anthropic Blog",
-        "url": "https://www.anthropic.com/news/claude-code-voice",
-        "published_at": "2026-03-03T09:00:00-05:00",
-        "content": "<p>Anthropic 为 Claude Code 添加语音模式，开发者现在可以通过语音与 AI 进行编程协作。</p>\n\n<h2>功能亮点</h2>\n\n<ul>\n<li><strong>语音输入</strong>：支持 10+ 种语言</li>\n<li><strong>语音输出</strong>：AI 回复可转为语音</li>\n<li><strong>实时转录</strong>：语音自动转为代码注释</li>\n</ul>\n\n<p>该功能现已在 Claude Code Pro 版本中开放。</p>"
-      },
-      {
-        "id": "llm-claude-surge-20260306",
-        "title": "Claude 日注册量突破 100 万",
-        "summary": "在国防部争议后，Claude 的日注册用户首次突破 100 万，下载量增长 55%。",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
-        "published_at": "2026-03-06T12:56:07-05:00",
-        "content": "<p>Anthropic 的 Claude 在经历国防部争议后，用户增长反而加速，日注册量首次突破 100 万。</p>\n\n<h2>增长数据</h2>\n\n<ul>\n<li>日注册用户突破 100 万</li>\n<li>App 下载量增长 55%</li>\n<li>企业用户增长 30%</li>\n</ul>\n\n<p>分析师认为，争议反而提高了 Claude 的知名度，吸引了更多用户尝试。</p>"
-      },
-      {
-        "id": "llm-gemini-scam-20260309",
-        "title": "假冒 Gemini AI 推广加密货币诈骗",
-        "summary": "网络安全研究人员发现一个假冒 Google Gemini 的网站，推广虚假的 \"Google Coin\" 加密货币骗局。",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/tech/fake-google-gemini-ai-pushes-google-coin-crypto-scam",
-        "published_at": "2026-03-09T08:18:40-04:00",
-        "content": "<p>网络安全公司 Malwarebytes 发现一个假冒 Google Gemini AI 的网站，推广虚假的 \"Google Coin\" 加密货币。</p>\n\n<h2>骗局详情</h2>\n\n<ul>\n<li>网站使用伪造的 Gemini 聊天机器人</li>\n<li>诱导用户购买不存在的 \"Google Coin\"</li>\n<li>已有多名用户上当受骗</li>\n</ul>\n\n<p>Google 尚未发行任何加密货币，用户应警惕此类诈骗。</p>"
+        "url": "https://openai.com/blog/gpt-5-4",
+        "published_at": "2026-03-10T17:39:56.899153+08:00",
+        "id": "68c0cd705c93"
       }
-    ]
+    ],
+    "world": [],
+    "finance": [],
+    "llm": []
   }
 }
