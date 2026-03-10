@@ -4,7 +4,9 @@
     "title": "OpenAI 发布 GPT-5.4 多模态模型",
     "summary": "OpenAI 今日宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破，错误率比 GPT-5.2 降低 33%。",
     "source": "OpenAI Blog",
-    "url": "https://openai.com/blog/gpt-5-4"
+    "url": "https://openai.com/blog/gpt-5-4",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop&q=80",
+    "published_at": "2026-03-10T14:00:00+08:00"
   },
   "categories": {
     "ai": [
