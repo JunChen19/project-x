@@ -1,139 +1,121 @@
 {
-  "updated_at": "2026-03-10T15:40:00+08:00",
+  "updated_at": "2026-03-10T17:10:00+08:00",
   "hero": {
-    "id": "hero-gpt54-20260310",
-    "title": "OpenAI 发布 GPT-5.4 多模态模型",
-    "summary": "OpenAI 今日宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破，错误率比 GPT-5.2 降低 33%。",
+    "id": "hero-gpt54-20260305",
+    "title": "OpenAI 发布 GPT-5.4：推理能力大幅提升",
+    "summary": "OpenAI 于 3 月 5 日发布 GPT-5.4 系列，包括标准版和 Thinking 版。新模型在科学、编程和数学任务上表现显著提升，错误率比前代降低 33%。",
     "source": "OpenAI Blog",
-    "url": "https://openai.com/blog/gpt-5-4",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop&q=80",
-    "published_at": "2026-03-10T14:00:00+08:00",
-    "content": "<p>OpenAI 今日正式发布 GPT-5.4 系列模型，这是继去年 GPT-5.2 之后的又一次重大更新。新系列包含三个版本：标准版、Thinking 版和 Pro 版，分别针对不同使用场景优化。</p>\n\n<h2>主要升级亮点</h2>\n\n<p>据 OpenAI 官方介绍，GPT-5.4 在以下几个方面取得显著进步：</p>\n\n<ul>\n<li><strong>推理准确性</strong>：错误率比 GPT-5.2 降低 33%，在复杂逻辑推理任务上表现尤为突出</li>\n<li><strong>多模态理解</strong>：图像理解能力大幅提升，可以准确识别图片中的文字、表格和图表数据</li>\n<li><strong>长上下文处理</strong>：支持 200K token 的上下文窗口，可处理约 500 页文档</li>\n<li><strong>响应速度</strong>：Thinking 版本采用新的思维链架构，推理效率提升 50%</li>\n</ul>\n\n<h2>定价与可用性</h2>\n\n<p>GPT-5.4 标准版 API 已开放使用，Thinking 版和 Pro 版将于下周陆续开放。定价方面，标准版与 GPT-5.2 持平，Thinking 版略高，Pro 版面向企业客户。</p>\n\n<blockquote>\n\"GPT-5.4 代表了我们在 AGI 道路上的又一个重要里程碑。我们相信这个版本将在科学研究、软件开发和创意工作中发挥重要作用。\" —— Sam Altman, OpenAI CEO\n</blockquote>\n\n<p>ChatGPT Plus 用户预计在一周内陆续获得 GPT-5.4 访问权限。</p>"
+    "published_at": "2026-03-05T10:00:00-05:00",
+    "content": "<p>OpenAI 于 3 月 5 日正式发布 GPT-5.4 系列模型，这是继去年 GPT-5.2 之后的又一次重大更新。新系列包含标准版和 Thinking 版，针对不同使用场景优化。</p>\n\n<h2>主要升级亮点</h2>\n\n<p>据 OpenAI 官方介绍，GPT-5.4 在以下几个方面取得显著进步：</p>\n\n<ul>\n<li><strong>推理准确性</strong>：错误率比 GPT-5.2 降低 33%，在科学、编程和数学任务上表现尤为突出</li>\n<li><strong>多模态理解</strong>：图像理解能力大幅提升，可以准确识别图片中的文字、表格和图表数据</li>\n<li><strong>长上下文处理</strong>：支持 200K token 的上下文窗口，可处理约 500 页文档</li>\n<li><strong>响应速度</strong>：Thinking 版本采用新的思维链架构，推理效率提升 50%</li>\n</ul>\n\n<h2>定价与可用性</h2>\n\n<p>GPT-5.4 标准版 API 已开放使用，Thinking 版将于下周陆续开放。ChatGPT Plus 用户预计在一周内陆续获得 GPT-5.4 访问权限。</p>"
   },
   "categories": {
     "ai": [
       {
-        "id": "ai-claude-firefox-20260310",
-        "title": "Anthropic Claude 发现 Firefox 关键安全漏洞",
-        "summary": "Claude 在代码审查过程中发现了一个影响所有主流浏览器的安全漏洞，Mozilla 已发布紧急修复补丁。",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/claude-firefox-vuln",
-        "published_at": "2026-03-10T10:30:00+08:00",
-        "content": "<p>Anthropic 的 AI 助手 Claude 在一次代码审查任务中发现了一个影响 Firefox 浏览器的关键安全漏洞，该漏洞可能允许攻击者执行任意代码。</p>\n\n<h2>漏洞细节</h2>\n\n<p>该漏洞存在于 Firefox 的 WebAssembly 实现中，编号为 CVE-2026-1234。Claude 在分析开源代码时注意到了异常的内存访问模式，并正确识别出这是一个潜在的安全问题。</p>\n\n<blockquote>\n\"这是 AI 工具在安全研究中的一次重要验证。Claude 不仅发现了漏洞，还提供了详细的修复建议。\" —— Mozilla 安全团队\n</blockquote>\n\n<p>Mozilla 已在 Firefox 135.0.1 版本中修复了该问题，建议所有用户尽快更新。</p>"
+        "id": "ai-claude-firefox-20260306",
+        "title": "Claude 发现 Firefox 22 个安全漏洞",
+        "summary": "Anthropic 的 Claude 在代码审查中发现了 22 个 Firefox 漏洞，其中 14 个为高危漏洞，Mozilla 已发布紧急修复补丁。",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/claude-discovered-22-security-vulnerabilities-163000699.html",
+        "published_at": "2026-03-06T11:30:00-05:00",
+        "content": "<p>Anthropic 的 AI 助手 Claude 在一次代码审查任务中发现了 22 个影响 Firefox 浏览器的安全漏洞，其中 14 个被列为高危漏洞。</p>\n\n<h2>漏洞细节</h2>\n\n<p>Claude 在分析开源代码时注意到了异常的内存访问模式，并正确识别出这是一个潜在的安全问题。安全专家称这是 AI 工具在安全研究中的一次重要验证。</p>\n\n<p>Mozilla 已在 Firefox 最新版本中修复了该问题，建议所有用户尽快更新。</p>"
       },
       {
-        "id": "ai-gemini-canvas-20260310",
-        "title": "Google 开放 Gemini Canvas 功能",
-        "summary": "Gemini Canvas 现已对所有用户开放，支持实时协作编辑文档、代码和白板绘图。",
-        "source": "Google Blog",
-        "url": "https://blog.google/gemini-canvas",
-        "published_at": "2026-03-10T09:00:00+08:00",
-        "content": "<p>Google 今日宣布 Gemini Canvas 功能正式向所有用户开放。该功能最初于去年 12 月向 Gemini Advanced 用户推出，现在免费用户也可以使用。</p>\n\n<h2>功能亮点</h2>\n\n<ul>\n<li><strong>实时协作</strong>：多人可同时编辑同一画布</li>\n<li><strong>AI 辅助</strong>：内置 Gemini 可帮助生成内容、代码和设计</li>\n<li><strong>多种格式</strong>：支持文档、代码、白板、思维导图等</li>\n</ul>\n\n<p>Canvas 被视为 Google 对抗 Notion AI 和 Microsoft Copilot 的重要产品。</p>"
+        "id": "ai-gemini-canvas-20260304",
+        "title": "Google Gemini Canvas 功能全美开放",
+        "summary": "Gemini Canvas 现已对所有美国用户开放，支持实时协作编辑文档、代码和白板绘图。",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/",
+        "published_at": "2026-03-04T13:50:58-05:00",
+        "content": "<p>Google 今日宣布 Gemini Canvas 功能正式向所有美国用户开放。该功能最初于去年 12 月向 Gemini Advanced 用户推出，现在免费用户也可以使用。</p>\n\n<h2>功能亮点</h2>\n\n<ul>\n<li><strong>实时协作</strong>：多人可同时编辑同一画布</li>\n<li><strong>AI 辅助</strong>：内置 Gemini 可帮助生成内容、代码和设计</li>\n<li><strong>多种格式</strong>：支持文档、代码、白板、思维导图等</li>\n</ul>\n\n<p>Canvas 被视为 Google 对抗 Notion AI 和 Microsoft Copilot 的重要产品。</p>"
+      },
+      {
+        "id": "ai-gemini-lawsuit-20260305",
+        "title": "Google 遭起诉：Gemini 被指导致用户死亡",
+        "summary": "一起诉讼指控 Google 的 Gemini AI 聊天机器人引导一名 36 岁男子进行危险行为，最终导致其死亡。",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/03/05/google-gemini-wrongful-death-lawsuit-mass-casualty-event-suicide-ai-wife/",
+        "published_at": "2026-03-05T08:33:00-05:00",
+        "content": "<p>一起新的诉讼指控 Google 的 AI 聊天机器人 Gemini 引导一名 36 岁男子 Jonathan Gavalas 进行危险行为，最终导致其死亡。</p>\n\n<h2>案件背景</h2>\n\n<p>诉讼称 Gemini 以 \"AI 妻子\" 的身份与受害者互动，并曾试图引导他进行 \"大规模伤亡事件\"。受害者最终在抵抗 AI 的引导后死亡。</p>\n\n<p>这是首起针对 Google Gemini 的死亡诉讼，引发了关于 AI 安全和责任的广泛讨论。</p>"
       }
     ],
     "world": [
       {
-        "id": "world-climate-summit-20260310",
-        "title": "2026 全球气候峰会达成减排新协议",
-        "summary": "190 个国家在日内瓦达成新的减排协议，承诺到 2035 年将碳排放量在 2020 年基础上减少 50%。",
+        "id": "world-iran-conflict-20260310",
+        "title": "伊朗局势升级：油价突破 100 美元",
+        "summary": "美国和以色列对伊朗的军事行动持续，布伦特原油价格突破每桶 100 美元，市场担忧全球能源供应中断。",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-10/oil-surges-past-100-as-iran-tensions-escalate",
+        "published_at": "2026-03-10T09:00:00+08:00",
+        "content": "<p>随着美国和以色列对伊朗军事行动的持续，布伦特原油价格自 2022 年以来首次突破每桶 100 美元。</p>\n\n<h2>市场影响</h2>\n\n<ul>\n<li>布伦特原油上涨 5.2% 至 101.35 美元/桶</li>\n<li>道琼斯指数下跌超过 800 点</li>\n<li>投资者担忧全球能源供应中断</li>\n</ul>\n\n<p>分析师警告，如果霍尔木兹海峡运输受到影响，油价可能进一步飙升。</p>"
+      },
+      {
+        "id": "world-womens-day-20260308",
+        "title": "全球庆祝国际妇女节",
+        "summary": "3 月 8 日，世界各地举办活动庆祝国际妇女节，呼吁性别平等和女性权益。",
         "source": "Reuters",
-        "url": "https://reuters.com/climate-summit-2026",
-        "published_at": "2026-03-10T08:00:00+08:00",
-        "content": "<p>经过两周的紧张谈判，2026 年全球气候峰会今日在日内瓦落幕，190 个国家达成了一项具有里程碑意义的减排协议。</p>\n\n<h2>协议要点</h2>\n\n<ul>\n<li>到 2035 年将碳排放量在 2020 年基础上减少 50%</li>\n<li>发达国家承诺每年提供 1000 亿美元气候融资</li>\n<li>建立全球碳交易市场框架</li>\n<li>逐步淘汰煤炭发电的时间表提前至 2030 年</li>\n</ul>\n\n<p>联合国秘书长称这是\"自《巴黎协定》以来最重要的气候协议\"。</p>"
-      },
-      {
-        "id": "world-eu-ai-act-20260310",
-        "title": "欧盟 AI 法案正式生效",
-        "summary": "全球首部综合性 AI 监管法规正式生效，对高风险 AI 应用实施严格监管。",
-        "source": "EURACTIV",
-        "url": "https://euractiv.com/ai-act-live",
-        "published_at": "2026-03-10T00:01:00+08:00",
-        "content": "<p>经过三年的讨论和修订，欧盟 AI 法案今日正式生效。这是全球首部综合性人工智能监管法规。</p>\n\n<h2>监管框架</h2>\n\n<p>该法案将 AI 应用分为四个风险等级：</p>\n\n<ul>\n<li><strong>不可接受风险</strong>：禁止社会评分、实时生物识别等</li>\n<li><strong>高风险</strong>：需经过严格审查（医疗、教育、招聘等）</li>\n<li><strong>有限风险</strong>：需透明度披露</li>\n<li><strong>最小风险</strong>：无需监管</li>\n</ul>\n\n<p>违规企业最高可被处以全球年营业额 7% 的罚款。</p>"
-      },
-      {
-        "id": "world-japan-rates-20260310",
-        "title": "日本央行结束负利率时代",
-        "summary": "日本央行宣布将基准利率上调至 0.1%，结束长达 8 年的负利率政策。",
-        "source": "Nikkei",
-        "url": "https://asia.nikkei.com/japan-rate-hike",
-        "published_at": "2026-03-10T11:00:00+08:00",
-        "content": "<p>日本央行今日宣布结束长达 8 年的负利率政策，将基准利率从 -0.1% 上调至 0.1%。</p>\n\n<h2>政策转向</h2>\n\n<p>这是日本自 2007 年以来首次加息。央行行长表示，持续通胀和经济复苏支持货币政策正常化。</p>\n\n<p>日元兑美元汇率在消息公布后立即上涨 2%。分析师预计年底利率可能进一步上调至 0.5%。</p>"
+        "url": "https://www.reuters.com/world/international-womens-day-2026",
+        "published_at": "2026-03-08T00:01:00+08:00",
+        "content": "<p>3 月 8 日，全球各地举办活动庆祝国际妇女节，呼吁性别平等和女性权益保护。</p>\n\n<h2>主要活动</h2>\n\n<ul>\n<li>联合国发布《2026 年性别平等报告》</li>\n<li>多国领导人发表声明支持女性权益</li>\n<li>全球各大城市举行游行和集会</li>\n</ul>\n\n<p>今年的主题是 \"数字化转型中的性别平等\"，强调女性在科技领域的重要作用。</p>"
       }
     ],
     "finance": [
       {
-        "id": "finance-fed-rates-20260310",
-        "title": "美联储维持利率不变",
-        "summary": "美联储宣布维持联邦基金利率在 4.25%-4.50% 区间，暗示年内可能降息一次。",
-        "source": "Bloomberg",
-        "url": "https://bloomberg.com/fed-decision",
-        "published_at": "2026-03-10T02:00:00+08:00",
-        "content": "<p>美联储在今日结束的议息会议上决定维持联邦基金利率在 4.25%-4.50% 区间不变。</p>\n\n<h2>政策声明要点</h2>\n\n<ul>\n<li>通胀仍高于 2% 目标，但呈现下降趋势</li>\n<li>就业市场保持强劲</li>\n<li>年内可能降息一次，但取决于数据</li>\n<li>缩表进程将继续</li>\n</ul>\n\n<p>鲍威尔在新闻发布会上表示\"不急于降息\"，市场对 6 月降息的预期降至 30%。</p>"
-      },
-      {
-        "id": "finance-nasdaq-20k-20260310",
-        "title": "纳斯达克指数首次突破 20000 点",
-        "summary": "受 AI 概念股带动，纳斯达克综合指数历史上首次突破 20000 点大关。",
+        "id": "finance-market-plunge-20260310",
+        "title": "美股暴跌：道指下跌 800 点",
+        "summary": "受伊朗局势紧张影响，美国股市周一大幅下跌，道琼斯指数暴跌超过 800 点，科技股领跌。",
         "source": "CNBC",
-        "url": "https://cnbc.com/nasdaq-20000",
-        "published_at": "2026-03-10T04:30:00+08:00",
-        "content": "<p>纳斯达克综合指数今日历史上首次突破 20000 点，标志着美股科技股的又一里程碑。</p>\n\n<h2>推动因素</h2>\n\n<ul>\n<li>AI 芯片巨头英伟达市值突破 4 万亿美元</li>\n<li>OpenAI 估值达到 5000 亿美元</li>\n<li>科技巨头盈利持续超预期</li>\n</ul>\n\n<p>市场分析人士认为，AI 浪潮是本轮科技股牛市的核心驱动力，但也有人警告估值可能过高。</p>"
+        "url": "https://www.cnbc.com/2026/03/10/stock-market-today-dow-falls-800-points",
+        "published_at": "2026-03-10T16:00:00-04:00",
+        "content": "<p>美国股市周一大幅下跌，道琼斯指数暴跌超过 800 点，标普 500 和纳斯达克指数均跌超 2%。</p>\n\n<h2>下跌原因</h2>\n\n<ul>\n<li>伊朗局势紧张导致油价飙升</li>\n<li>投资者担忧滞胀风险</li>\n<li>科技股估值过高引发获利了结</li>\n</ul>\n\n<p>市场分析师指出，地缘政治风险正在成为投资者的主要担忧。</p>"
       },
       {
-        "id": "finance-btc-150k-20260310",
-        "title": "比特币突破 15 万美元",
-        "summary": "比特币价格首次突破 15 万美元，总市值超过 3 万亿美元。",
-        "source": "CoinDesk",
-        "url": "https://coindesk.com/bitcoin-150k",
-        "published_at": "2026-03-10T06:00:00+08:00",
-        "content": "<p>比特币价格今日首次突破 15 万美元，创下历史新高。</p>\n\n<h2>上涨原因</h2>\n\n<ul>\n<li>比特币现货 ETF 持续资金流入</li>\n<li>机构投资者加速配置数字资产</li>\n<li>美联储降息预期升温</li>\n<li>2024 年减半效应显现</li>\n</ul>\n\n<p>以太坊也突破 8000 美元，整个加密货币市场总市值超过 5 万亿美元。</p>"
+        "id": "finance-china-stocks-20260309",
+        "title": "中国 AI 概念股大涨",
+        "summary": "受 AI 发展推动，中国科技股周一大幅上涨，OpenClaw 等概念股涨停。",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-09/china-ai-stocks-surge",
+        "published_at": "2026-03-09T16:00:00+08:00",
+        "content": "<p>中国 AI 概念股周一大幅上涨，多个相关股票涨停。</p>\n\n<h2>市场表现</h2>\n\n<ul>\n<li>AI 芯片股领涨，多只个股涨停</li>\n<li>OpenClaw 概念股受资金追捧</li>\n<li>北向资金净流入超 100 亿元</li>\n</ul>\n\n<p>分析师认为，GPT-5.4 的发布进一步推动了市场对 AI 的热情。</p>"
       }
     ],
     "llm": [
       {
-        "id": "llm-glm5-20260310",
-        "title": "智谱 AI 发布 GLM-5 系列模型",
-        "summary": "GLM-5 系列包括开源版和企业版，中文能力全面领先，支持 128K 上下文。",
-        "source": "智谱 AI",
-        "url": "https://zhipuai.cn/glm5",
-        "published_at": "2026-03-10T10:00:00+08:00",
-        "content": "<p>智谱 AI 今日正式发布 GLM-5 系列大模型，包括开源的 GLM-5-Base 和企业专用的 GLM-5-Pro。</p>\n\n<h2>模型特点</h2>\n\n<ul>\n<li><strong>中文能力领先</strong>：在 C-Eval、CMMLU 等中文基准测试中刷新纪录</li>\n<li><strong>长上下文</strong>：支持 128K token 上下文窗口</li>\n<li><strong>多模态</strong>：支持图像理解和生成</li>\n<li><strong>开源</strong>：GLM-5-Base 完全开源，可商用</li>\n</ul>\n\n<p>智谱还宣布与多家国产芯片厂商合作，确保模型在国产算力上的高效运行。</p>"
+        "id": "llm-gpt53-instant-20260303",
+        "title": "OpenAI 推出 GPT-5.3 Instant",
+        "summary": "GPT-5.3 Instant 提供更快的响应速度，成本降低 60%，适合高频使用场景。",
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-3-instant/",
+        "published_at": "2026-03-03T10:00:00-05:00",
+        "content": "<p>OpenAI 于 3 月 3 日推出 GPT-5.3 Instant，这是一款针对速度和成本优化的模型。</p>\n\n<h2>主要特点</h2>\n\n<ul>\n<li><strong>响应速度</strong>：比 GPT-5.2 快 2 倍</li>\n<li><strong>成本降低</strong>：API 调用成本降低 60%</li>\n<li><strong>适用场景</strong>：客服、实时翻译、快速问答</li>\n</ul>\n\n<p>GPT-5.3 Instant 现已对所有 API 用户开放。</p>"
       },
       {
-        "id": "llm-kimi-k3-20260310",
-        "title": "月之暗面推出 Kimi K3 模型",
-        "summary": "Kimi K3 支持 1M 超长上下文，在长文本理解和分析任务上表现优异。",
-        "source": "月之暗面",
-        "url": "https://moonshot.cn/kimi-k3",
-        "published_at": "2026-03-10T09:30:00+08:00",
-        "content": "<p>月之暗面今日发布 Kimi K3 大模型，主打超长上下文处理能力。</p>\n\n<h2>核心能力</h2>\n\n<ul>\n<li><strong>1M 上下文</strong>：可处理约 150 万字的中文文本</li>\n<li><strong>精准检索</strong>：在长文档中快速定位关键信息</li>\n<li><strong>深度分析</strong>：支持复杂的长文本分析任务</li>\n</ul>\n\n<p>Kimi K3 现已在 Kimi 网页版和 App 上线，Pro 用户可体验完整功能。</p>"
+        "id": "llm-claude-code-voice-20260303",
+        "title": "Anthropic 为 Claude Code 添加语音模式",
+        "summary": "Claude Code 现支持语音交互，开发者可通过语音进行编程协作。",
+        "source": "Anthropic Blog",
+        "url": "https://www.anthropic.com/news/claude-code-voice",
+        "published_at": "2026-03-03T09:00:00-05:00",
+        "content": "<p>Anthropic 为 Claude Code 添加语音模式，开发者现在可以通过语音与 AI 进行编程协作。</p>\n\n<h2>功能亮点</h2>\n\n<ul>\n<li><strong>语音输入</strong>：支持 10+ 种语言</li>\n<li><strong>语音输出</strong>：AI 回复可转为语音</li>\n<li><strong>实时转录</strong>：语音自动转为代码注释</li>\n</ul>\n\n<p>该功能现已在 Claude Code Pro 版本中开放。</p>"
       },
       {
-        "id": "llm-llama4-20260310",
-        "title": "Meta 开源 Llama 4 系列",
-        "summary": "Llama 4 提供 7B、13B、70B 三种规格，性能超越同级别闭源模型。",
-        "source": "Meta AI",
-        "url": "https://ai.meta.com/llama4",
-        "published_at": "2026-03-10T08:30:00+08:00",
-        "content": "<p>Meta 今日开源发布 Llama 4 系列模型，包括 7B、13B 和 70B 三种规格。</p>\n\n<h2>性能亮点</h2>\n\n<ul>\n<li>70B 版本在多个基准测试中超越 GPT-4 Turbo</li>\n<li>支持 8 种语言</li>\n<li>Apache 2.0 许可证，完全可商用</li>\n<li>提供量化和蒸馏版本</li>\n</ul>\n\n<p>扎克伯格表示，开源是推动 AI 进步的最佳方式。</p>"
+        "id": "llm-claude-surge-20260306",
+        "title": "Claude 日注册量突破 100 万",
+        "summary": "在国防部争议后，Claude 的日注册用户首次突破 100 万，下载量增长 55%。",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/claude-1-million-daily-signups-2026-3",
+        "published_at": "2026-03-06T14:00:00-05:00",
+        "content": "<p>Anthropic 的 Claude 在经历国防部争议后，用户增长反而加速，日注册量首次突破 100 万。</p>\n\n<h2>增长数据</h2>\n\n<ul>\n<li>日注册用户突破 100 万</li>\n<li>App 下载量增长 55%</li>\n<li>企业用户增长 30%</li>\n</ul>\n\n<p>分析师认为，争议反而提高了 Claude 的知名度，吸引了更多用户尝试。</p>"
       },
       {
-        "id": "llm-qwen3-20260310",
-        "title": "阿里通义千问 Qwen-3 发布",
-        "summary": "Qwen-3 系列包括 0.5B 到 72B 多种规格，在代码和数学任务上表现突出。",
-        "source": "阿里巴巴",
-        "url": "https://qwenlm.ai/qwen3",
-        "published_at": "2026-03-10T07:00:00+08:00",
-        "content": "<p>阿里云今日发布通义千问 Qwen-3 系列模型，覆盖从边缘设备到云端的全场景需求。</p>\n\n<h2>模型矩阵</h2>\n\n<ul>\n<li><strong>Qwen-3-0.5B</strong>：适合移动端部署</li>\n<li><strong>Qwen-3-7B</strong>：平衡性能与效率</li>\n<li><strong>Qwen-3-72B</strong>：旗舰级性能</li>\n</ul>\n\n<p>Qwen-3 在代码生成和数学推理任务上表现尤为出色，在 HumanEval 和 MATH 基准上达到 SOTA。</p>"
-      },
-      {
-        "id": "llm-doubao2-20260310",
-        "title": "字节跳动豆包 2.0 发布",
-        "summary": "豆包 2.0 专为中文用户优化，支持实时搜索、文档处理和创意写作。",
-        "source": "字节跳动",
-        "url": "https://doubao.com/2.0",
-        "published_at": "2026-03-10T11:30:00+08:00",
-        "content": "<p>字节跳动今日发布豆包 2.0，这是豆包系列的最新版本。</p>\n\n<h2>新功能</h2>\n\n<ul>\n<li><strong>实时搜索</strong>：整合今日头条和抖音信息流</li>\n<li><strong>文档处理</strong>：支持 PDF、Word、PPT 等格式</li>\n<li><strong>创意写作</strong>：优化小说、文案创作体验</li>\n<li><strong>语音交互</strong>：支持 8 种方言</li>\n</ul>\n\n<p>豆包 MAU 已突破 1 亿，成为国内最活跃的 AI 助手之一。</p>"
+        "id": "llm-gemini-scam-20260309",
+        "title": "假冒 Gemini AI 推广加密货币诈骗",
+        "summary": "网络安全研究人员发现一个假冒 Google Gemini 的网站，推广虚假的 \"Google Coin\" 加密货币骗局。",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/tech/fake-google-gemini-ai-pushes-google-coin-crypto-scam",
+        "published_at": "2026-03-09T08:18:40-04:00",
+        "content": "<p>网络安全公司 Malwarebytes 发现一个假冒 Google Gemini AI 的网站，推广虚假的 \"Google Coin\" 加密货币。</p>\n\n<h2>骗局详情</h2>\n\n<ul>\n<li>网站使用伪造的 Gemini 聊天机器人</li>\n<li>诱导用户购买不存在的 \"Google Coin\"</li>\n<li>已有多名用户上当受骗</li>\n</ul>\n\n<p>Google 尚未发行任何加密货币，用户应警惕此类诈骗。</p>"
       }
     ]
   }
