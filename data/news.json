@@ -1,225 +1,26 @@
 {
-  "lastUpdated": "2026-03-10T18:15:00.000000+08:00",
+  "lastUpdated": "2026-03-11T07:00:28.269808+08:00",
   "hero": {
-    "title": "xAI 未能阻止加州 AI 数据披露法律生效",
-    "summary": "Elon Musk 旗下的 xAI 公司试图通过法院临时禁令阻止加州 AI 数据披露法律的执行，但加州联邦法院周四驳回了这一请求。该法律要求生成式 AI 公司公开其训练数据集的摘要，已于 1 月 1 日生效。",
-    "source": "Insurance Journal",
-    "url": "https://www.insurancejournal.com/news/west/2026/03/06/860753.htm",
-    "published_at": "2026-03-06T06:00:09+08:00",
-    "id": "ai-001"
+    "title": "OpenAI 发布 GPT-5.4 多模态模型",
+    "summary": "OpenAI 今日宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破，错误率比 GPT-5.2 降低 33%。",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/blog/gpt-5-4",
+    "published_at": "2026-03-11T07:00:28.268864+08:00",
+    "id": "68c0cd705c93"
   },
   "categories": {
     "ai": [
       {
-        "title": "OpenAI 暂停 ChatGPT 成人模式开发",
-        "summary": "OpenAI 宣布无限期暂停 ChatGPT 成人模式的开发，以专注于更高优先级的项目。该决定反映了公司在产品路线图上的战略调整。",
-        "content": "OpenAI 已决定无限期暂停 ChatGPT 成人模式的开发工作。公司表示，这一决定是为了将资源集中在更高优先级的项目上。此前，ChatGPT 成人模式一直处于测试阶段，但公司现在决定将其搁置，以专注于核心产品的发展。",
-        "source": "DesignTAXI",
-        "url": "https://community.designtaxi.com/topic/24740-openai-cuffs-chatgpt-adult-mode-indefinitely-to-fulfill-higher-priorities/",
-        "published_at": "2026-03-10T05:38:47+08:00",
-        "id": "ai-001",
-        "image": null
-      },
-      {
-        "title": "前谷歌研究员创立公司用 AI 改造日本机器人产业",
-        "summary": "由前谷歌研究员创立的 Integral AI Inc. 正在与丰田、索尼、本田、日产等日本巨头合作，开发面向工业机器人和自动驾驶汽车的 AI 模型。",
-        "content": "Integral AI Inc. 由前谷歌研究员创立，正在开发一种让工业机器人学习新技能的系统。该公司已与电装公司合作多年，通过演示教学让工业机器人学习新技能。公司表示，其技术可以让机器人更快地适应新任务，大幅提高生产效率。日本拥有世界领先的机器人产业，但在 AI 软件方面相对滞后，Integral AI 希望填补这一空白。",
-        "source": "Bloomberg Law",
-        "url": "https://news.bloomberglaw.com/daily-labor-report/ex-google-researcher-seeks-to-transform-japans-robots-with-ai",
-        "published_at": "2026-03-09T04:15:00+08:00",
-        "id": "ai-002",
-        "image": null
-      },
-      {
-        "title": "Anthropic 研究显示 AI 对就业影响有限",
-        "summary": "Anthropic 经济学家最新研究发现，AI 对劳动者的实际经济影响有限。在丹麦进行的调查显示，AI 对就业和工资没有产生显著影响。",
-        "content": "Anthropic 的经济学家进行了一项关于 AI 对劳动力市场影响的研究，结果与此前预测 AI 将取代大量白领工作的警告形成对比。研究分析了丹麦的就业数据，发现 AI 对就业和工资水平没有产生显著的负面影响。这一发现表明，AI 对劳动力市场的冲击可能比此前预期的要温和得多。",
-        "source": "The Register",
-        "url": "https://www.theregister.com/2026/03/07/anthropic_bods_rework_ai_damage/",
-        "published_at": "2026-03-07T00:07:00+08:00",
-        "id": "ai-003",
-        "image": null
-      },
-      {
-        "title": "Law.co 发布企业律所 AI 应用报告",
-        "summary": "AI 法律技术平台 Law.co 发布《企业律所 AI 应用报告》，分析了 AI 如何改变企业法律服务并创造增长机会。",
-        "content": "该报告深入分析了 AI 技术在法律服务行业的应用现状和未来趋势。研究发现，采用 AI 的律所正在扩大与传统服务模式之间的性能差距，AI 在合同审查、法律研究、文档起草等领域展现出显著优势。报告预测，未来五年内，AI 将成为律所的核心竞争力之一。",
-        "source": "Manila Times",
-        "url": "https://www.manilatimes.net/2026/03/06/tmt-newswire/plentisoft/legal-ai-platform-releases-law-firm-ai-report-for-business-corporate-lawyers-showcasing-growth-trends-opportunities/2294594/amp",
-        "published_at": "2026-03-06T03:16:05+08:00",
-        "id": "ai-004",
-        "image": null
-      },
-      {
-        "title": "xAI 未能阻止加州 AI 数据披露法律生效",
-        "summary": "Elon Musk 旗下的 xAI 公司试图通过法院临时禁令阻止加州 AI 数据披露法律的执行，但加州联邦法院周四驳回了这一请求。",
-        "content": "加州联邦法院驳回了 xAI 公司的临时禁令请求，该公司试图阻止加州 AI 数据披露法律的执行。该法律于 1 月 1 日生效，要求生成式 AI 公司公开其训练数据集的摘要。法院认为 xAI 未能证明该法律会造成不可挽回的损害。这一裁决被视为 AI 行业透明度要求的重要胜利。",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/west/2026/03/06/860753.htm",
-        "published_at": "2026-03-06T06:00:09+08:00",
-        "id": "ai-005",
-        "image": null
-      },
-      {
-        "title": "NC State 将举办农业 AI 全国会议",
-        "summary": "北卡罗来纳州立大学将于 3 月 31 日至 4 月 2 日举办 2026 农业人工智能全国会议，汇聚研究人员、行业代表、技术开发商和政府部门。",
-        "content": "会议将探讨 AI 在农业系统中的新兴应用，包括作物监测、病虫害预测、精准农业、智能灌溉等领域。主办方表示，AI 技术正在改变传统农业，此次会议将为各利益相关方提供交流和合作的平台，推动农业 AI 技术的发展和应用。",
-        "source": "Global Agriculture",
-        "url": "https://www.global-agriculture.com/global-agriculture/nc-state-to-host-national-conference-on-artificial-intelligence-in-agriculture/",
-        "published_at": "2026-03-05T12:38:50+08:00",
-        "id": "ai-006",
-        "image": null
-      }
-    ],
-    "world": [
-      {
-        "title": "第七名美军士兵在伊朗军事行动中阵亡",
-        "summary": "美国中央司令部确认第七名美军士兵在伊朗军事行动中阵亡，使美军在此次行动中的死亡人数进一步上升。",
-        "source": "Hawaii Tribune-Herald",
-        "url": "https://www.hawaiitribune-herald.com/2026/03/08/hawaii-news/7th-us-service-member-killed-in-iran-military-operation/",
-        "published_at": "2026-03-08T08:00:00+08:00",
-        "id": "world-001"
-      },
-      {
-        "title": "中国准备应对伊朗战争导致的能源中断",
-        "summary": "由于伊朗战争持续，中国正在制定计划应对可能的能源供应中断。作为全球最大的石油进口国之一，中国高度依赖中东地区的能源供应。",
-        "source": "World News Live",
-        "url": "https://www.worldnewslive.co.uk/china-prepares-for-energy-disruption-due-to-iran-war/",
-        "published_at": "2026-03-09T10:30:00+08:00",
-        "id": "world-002"
-      },
-      {
-        "title": "国际社会关注被关押在伊朗的美国囚犯",
-        "summary": "随着伊朗军事冲突升级，国际社会对被关押在伊朗的美国囚犯的担忧日益增加。多个组织呼吁各方确保囚犯安全。",
-        "source": "Republic World",
-        "url": "https://www.republicworld.com/world/us/concerns-grow-over-us-prisoners-held-in-iran-as-war-continues",
-        "published_at": "2026-03-09T14:15:00+08:00",
-        "id": "world-003"
-      },
-      {
-        "title": "加拿大总理谴责伊朗战争破坏世界秩序",
-        "summary": "加拿大总理发表声明，称伊朗战争是世界秩序破裂的极端例子，呼吁国际社会采取行动维护全球稳定与和平。",
-        "source": "Castanet.net",
-        "url": "https://www.castanet.net/news/World/509901/Iran-war-is-extreme-example-of-world-order-breaking-down-PM",
-        "published_at": "2026-03-04T16:00:00+08:00",
-        "id": "world-004"
-      },
-      {
-        "title": "伊朗新任最高领袖 Mojtaba Khamenei 是谁",
-        "summary": "随着伊朗政权更迭，Mojtaba Khamenei 成为新任最高领袖。国际媒体纷纷分析其背景及其对伊朗未来走向的影响。",
-        "source": "Olean Times Herald",
-        "url": "https://www.oleantimesherald.com/news/who-is-mojtaba-khamenei-new-supreme-leader-of-iran/article_74f0ec04-fae7-11ef-9c63-77a589a46529.html",
-        "published_at": "2026-03-08T18:00:00+08:00",
-        "id": "world-005"
-      },
-      {
-        "title": "国际妇女节全球抗议活动此起彼伏",
-        "summary": "3月8日国际妇女节当天，全球多国举行抗议活动，呼吁性别平等、反对暴力与歧视。活动覆盖欧洲、美洲、亚洲等多个地区。",
-        "source": "WXXI News",
-        "url": "https://wxxinews.org/world-news/2026-03-08/protests-around-the-world-mark-international-womens-day-2",
-        "published_at": "2026-03-08T20:00:00+08:00",
-        "id": "world-006"
-      }
-    ],
-    "finance": [
-      {
-        "title": "Nvidia 宣布扩大美国本土制造计划",
-        "summary": "Nvidia 宣布将大幅扩大其在美国本土的制造业务，与台积电等合作伙伴在美国建设更多芯片生产设施。",
-        "source": "The Business Journals",
-        "url": "https://www.bizjournals.com/bizjournals/news/2026/03/06/nvidia-expanding-us-manufacturing-operations.html",
-        "published_at": "2026-03-06T09:00:00+08:00",
-        "id": "finance-001"
-      },
-      {
-        "title": "特朗普签署临时预算延长法案避免政府停摆",
-        "summary": "特朗普总统签署了一项临时预算延长法案，将政府资金延长至下一财年，成功避免了联邦政府停摆的风险。",
-        "source": "Pehal News",
-        "url": "https://www.pehalnews.in/trump-signs-stopgap-spending-bill-to-avert-government-shutdown/82853/",
-        "published_at": "2026-03-08T22:00:00+08:00",
-        "id": "finance-002"
-      },
-      {
-        "title": "美国职位空缺数据将于周二发布",
-        "summary": "美国劳工统计局将于周二发布最新的职位空缺和劳动力流动调查数据，投资者将密切关注劳动力市场健康状况的信号。",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/economic-indicators/us-jolts-job-openings-data-due-tuesday-4132576",
-        "published_at": "2026-03-10T08:00:00+08:00",
-        "id": "finance-003"
-      },
-      {
-        "title": "加拿大失业率维持在 6.5%",
-        "summary": "加拿大统计局公布最新就业数据显示，失业率维持在 6.5% 不变，就业市场表现相对稳定。",
-        "source": "Castanet.net",
-        "url": "https://www.castanet.net/news/Business/509844/Unemployment-rate-holds-steady-at-6-5",
-        "published_at": "2026-03-06T14:30:00+08:00",
-        "id": "finance-004"
-      },
-      {
-        "title": "特斯拉股价本周波动加剧",
-        "summary": "特斯拉股价本周经历大幅波动，投资者对公司电动车需求前景和马斯克其他商业事务的影响表示担忧。",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/equities/nvidia-corp",
-        "published_at": "2026-03-07T16:00:00+08:00",
-        "id": "finance-005"
-      },
-      {
-        "title": "新泽西州大西洋城赌场诉讼案开庭",
-        "summary": "新泽西州最高法院开始审理大西洋城赌场相关诉讼案，该案可能对大西洋城博彩业和当地经济产生重大影响。",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/news/supreme-court-hear-atlantic-city-153000000.html",
-        "published_at": "2026-03-09T15:30:00+08:00",
-        "id": "finance-006"
-      }
-    ],
-    "llm": [
-      {
         "title": "OpenAI 发布 GPT-5.4 多模态模型",
-        "summary": "OpenAI 宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破。",
+        "summary": "OpenAI 今日宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破，错误率比 GPT-5.2 降低 33%。",
         "source": "OpenAI Blog",
         "url": "https://openai.com/blog/gpt-5-4",
-        "published_at": "2026-03-10T10:00:00+08:00",
-        "id": "llm-001"
-      },
-      {
-        "title": "Anthropic 发布 Claude 3.8 Sonnet 模型",
-        "summary": "Anthropic 推出 Claude 3.8 Sonnet，在代码生成和长上下文理解方面显著提升。新模型支持 200K token 上下文窗口。",
-        "source": "Anthropic Blog",
-        "url": "https://anthropic.com/news/claude-3-8-sonnet",
-        "published_at": "2026-03-08T14:00:00+08:00",
-        "id": "llm-002"
-      },
-      {
-        "title": "Google 发布 Gemini 2.5 Pro 多模态模型",
-        "summary": "Google DeepMind 发布 Gemini 2.5 Pro，在视觉理解和代码生成方面达到行业领先水平。新模型支持原生多模态输入。",
-        "source": "Google AI Blog",
-        "url": "https://blog.google/technology/ai/gemini-2-5-pro/",
-        "published_at": "2026-03-05T16:00:00+08:00",
-        "id": "llm-003"
-      },
-      {
-        "title": "Meta 开源 Llama 4 系列模型",
-        "summary": "Meta 正式开源 Llama 4 系列大语言模型，包括 7B、13B、70B 和 405B 四个版本。新模型在推理和数学能力上达到 GPT-4 级别。",
-        "source": "Meta AI Blog",
-        "url": "https://ai.meta.com/blog/llama-4/",
-        "published_at": "2026-03-06T18:00:00+08:00",
-        "id": "llm-004"
-      },
-      {
-        "title": "DeepSeek 发布 V4 推理模型",
-        "summary": "DeepSeek 发布 V4 推理模型，在数学和代码任务上表现出色。新模型采用创新的 MoE 架构，推理成本降低 60%。",
-        "source": "DeepSeek Blog",
-        "url": "https://deepseek.com/blog/v4",
-        "published_at": "2026-03-07T12:00:00+08:00",
-        "id": "llm-005"
-      },
-      {
-        "title": "Mistral 发布 Mistral Large 3 模型",
-        "summary": "法国 AI 公司 Mistral 发布 Mistral Large 3，在欧洲市场推出首个可与 GPT-5 竞争的模型。该模型特别优化了欧洲多语言支持。",
-        "source": "Mistral AI Blog",
-        "url": "https://mistral.ai/news/mistral-large-3/",
-        "published_at": "2026-03-09T10:00:00+08:00",
-        "id": "llm-006"
+        "published_at": "2026-03-11T07:00:28.268864+08:00",
+        "id": "68c0cd705c93"
       }
-    ]
+    ],
+    "world": [],
+    "finance": [],
+    "llm": []
   }
 }
