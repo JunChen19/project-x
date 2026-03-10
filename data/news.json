@@ -1,0 +1,61 @@
+{
+  "lastUpdated": "2026-03-10T15:30:00+08:00",
+  "hero": {
+    "title": "OpenAI 发布 GPT-5.4 多模态模型",
+    "summary": "OpenAI 今日宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破，错误率比 GPT-5.2 降低 33%。",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/blog/gpt-5-4"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Anthropic Claude Opus 4.6 发现 22 个 Firefox 漏洞",
+        "summary": "Anthropic 最新发布的 Claude Opus 4.6 在安全测试中表现出色，成功识别出 Firefox 浏览器中的 22 个潜在安全漏洞，展示了 AI 在网络安全领域的应用潜力。",
+        "source": "Anthropic",
+        "url": "https://anthropic.com/news",
+        "published_at": "2026-03-10T08:00:00+08:00"
+      },
+      {
+        "title": "Google Gemini 2.5 Pro 全面开放 Canvas 功能",
+        "summary": "Google 宣布 Gemini 2.5 Pro 的 Canvas in AI Mode 功能已向所有美国用户开放，支持更强大的可视化和交互式 AI 助手体验。",
+        "source": "Google AI Blog",
+        "url": "https://blog.google/technology/ai/",
+        "published_at": "2026-03-10T06:30:00+08:00"
+      }
+    ],
+    "world": [
+      {
+        "title": "全球气候峰会达成新协议",
+        "summary": "在最新一轮全球气候峰会上，各国代表就碳排放目标达成新的共识，承诺在 2030 年前实现更严格的减排目标。",
+        "source": "Reuters",
+        "url": "https://reuters.com/climate",
+        "published_at": "2026-03-10T07:00:00+08:00"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美联储维持利率不变",
+        "summary": "美联储在最新政策会议上决定维持当前利率水平，表示将继续关注通胀走势和就业市场数据。",
+        "source": "Bloomberg",
+        "url": "https://bloomberg.com/markets",
+        "published_at": "2026-03-10T09:00:00+08:00"
+      }
+    ],
+    "llm": [
+      {
+        "title": "智谱 AI 发布 GLM-5 大模型",
+        "summary": "智谱 AI 正式发布 GLM-5 大模型，在中文理解和生成任务上取得显著进步，支持超长上下文处理。",
+        "source": "智谱 AI",
+        "url": "https://www.zhipuai.cn",
+        "published_at": "2026-03-10T10:00:00+08:00"
+      },
+      {
+        "title": "Moonshot Kimi K3 模型发布",
+        "summary": "Moonshot AI 发布 Kimi K3 模型，在长文本理解和多轮对话方面展现出强大的能力。",
+        "source": "Moonshot AI",
+        "url": "https://moonshot.cn",
+        "published_at": "2026-03-10T08:30:00+08:00"
+      }
+    ]
+  }
+}
