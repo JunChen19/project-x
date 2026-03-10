@@ -161,51 +161,51 @@
     ],
     "llm": [
       {
-        "title": "OpenAI 暂停 ChatGPT 成人模式开发",
-        "summary": "OpenAI 宣布无限期暂停 ChatGPT 成人模式的开发，以专注于更高优先级的项目。该决定反映了公司在产品路线图上的战略调整，引发业界对 AI 产品边界的讨论。",
-        "source": "DesignTAXI",
-        "url": "https://community.designtaxi.com/topic/24740-openai-cuffs-chatgpt-adult-mode-indefinitely-to-fulfill-higher-priorities/",
-        "published_at": "2026-03-10T05:38:47+08:00",
+        "title": "OpenAI 发布 GPT-5.4 多模态模型",
+        "summary": "OpenAI 宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破，错误率比 GPT-5.2 降低 33%。",
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/blog/gpt-5-4",
+        "published_at": "2026-03-10T10:00:00+08:00",
         "id": "llm-001"
       },
       {
-        "title": "Anthropic 发布 Claude 模型评估新指标",
-        "summary": "Anthropic 发布了一套新的 AI 模型评估指标，旨在更准确地衡量大语言模型的能力和安全性。该指标体系有望成为行业评估标准的重要参考。",
-        "source": "Leverage AI",
-        "url": "https://leverage-ai.com/anthropic-releases-new-claude-models/",
-        "published_at": "2026-03-06T10:00:00+08:00",
+        "title": "Anthropic 发布 Claude 3.8 Sonnet 模型",
+        "summary": "Anthropic 推出 Claude 3.8 Sonnet，在代码生成和长上下文理解方面显著提升。新模型支持 200K token 上下文窗口，编程能力提升 40%。",
+        "source": "Anthropic Blog",
+        "url": "https://anthropic.com/news/claude-3-8-sonnet",
+        "published_at": "2026-03-08T14:00:00+08:00",
         "id": "llm-002"
       },
       {
-        "title": "xAI 试图阻止加州 AI 数据披露法被驳回",
-        "summary": "Elon Musk 旗下的 xAI 公司未能阻止加州 AI 数据披露法律的执行。该法律要求生成式 AI 公司公开其训练数据集摘要，对大模型透明度产生深远影响。",
-        "source": "Insurance Journal",
-        "url": "https://www.insurancejournal.com/news/west/2026/03/06/860753.htm",
-        "published_at": "2026-03-06T06:00:09+08:00",
+        "title": "Google 发布 Gemini 2.5 Pro 多模态模型",
+        "summary": "Google DeepMind 发布 Gemini 2.5 Pro，在视觉理解和代码生成方面达到行业领先水平。新模型支持原生多模态输入，视频理解能力大幅提升。",
+        "source": "Google AI Blog",
+        "url": "https://blog.google/technology/ai/gemini-2-5-pro/",
+        "published_at": "2026-03-05T16:00:00+08:00",
         "id": "llm-003"
       },
       {
-        "title": "前谷歌研究员用大模型改造日本机器人产业",
-        "summary": "Integral AI Inc. 正在将大语言模型技术应用于工业机器人领域，通过演示教学让机器人学习新技能。该公司与丰田、索尼等日本巨头展开深度合作。",
-        "source": "Bloomberg Law",
-        "url": "https://news.bloomberglaw.com/daily-labor-report/ex-google-researcher-seeks-to-transform-japans-robots-with-ai",
-        "published_at": "2026-03-09T04:15:00+08:00",
+        "title": "Meta 开源 Llama 4 系列模型",
+        "summary": "Meta 正式开源 Llama 4 系列大语言模型，包括 7B、13B、70B 和 405B 四个版本。新模型在推理和数学能力上达到 GPT-4 级别，完全免费商用。",
+        "source": "Meta AI Blog",
+        "url": "https://ai.meta.com/blog/llama-4/",
+        "published_at": "2026-03-06T18:00:00+08:00",
         "id": "llm-004"
       },
       {
-        "title": "Anthropic 研究揭示大模型对就业的真实影响",
-        "summary": "Anthropic 经济学家发布最新研究，分析大语言模型对劳动力市场的实际影响。研究发现 AI 对就业和工资的影响有限，与此前悲观预测形成对比。",
-        "source": "The Register",
-        "url": "https://www.theregister.com/2026/03/07/anthropic_bods_rework_ai_damage/",
-        "published_at": "2026-03-07T00:07:00+08:00",
+        "title": "DeepSeek 发布 V4 推理模型",
+        "summary": "DeepSeek 发布 V4 推理模型，在数学和代码任务上表现出色。新模型采用创新的 MoE 架构，推理成本降低 60%，性能媲美 GPT-5 级别模型。",
+        "source": "DeepSeek Blog",
+        "url": "https://deepseek.com/blog/v4",
+        "published_at": "2026-03-07T12:00:00+08:00",
         "id": "llm-005"
       },
       {
-        "title": "法律行业加速采用大语言模型技术",
-        "summary": "Law.co 发布的企业律所 AI 应用报告显示，大语言模型正在快速改变法律服务行业。采用 AI 的律所在效率和客户服务方面展现出显著优势。",
-        "source": "Manila Times",
-        "url": "https://www.manilatimes.net/2026/03/06/tmt-newswire/plentisoft/legal-ai-platform-releases-law-firm-ai-report-for-business-corporate-lawyers-showcasing-growth-trends-opportunities/2294594/amp",
-        "published_at": "2026-03-06T03:16:05+08:00",
+        "title": "Mistral 发布 Mistral Large 3 模型",
+        "summary": "法国 AI 公司 Mistral 发布 Mistral Large 3，在欧洲市场推出首个可与 GPT-5 竞争的模型。该模型特别优化了欧洲多语言支持，在法语、德语、西班牙语上表现优异。",
+        "source": "Mistral AI Blog",
+        "url": "https://mistral.ai/news/mistral-large-3/",
+        "published_at": "2026-03-09T10:00:00+08:00",
         "id": "llm-006"
       }
     ]
