@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T15:30:00+08:00",
+  "lastUpdated": "2026-03-10T15:40:00+08:00",
   "hero": {
     "title": "OpenAI 发布 GPT-5.4 多模态模型",
     "summary": "OpenAI 今日宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破，错误率比 GPT-5.2 降低 33%。",
@@ -21,6 +21,20 @@
         "source": "Google AI Blog",
         "url": "https://blog.google/technology/ai/",
         "published_at": "2026-03-10T06:30:00+08:00"
+      },
+      {
+        "title": "DeepMind AlphaFold 3 开源核心代码",
+        "summary": "DeepMind 宣布开源 AlphaFold 3 的核心推理代码，允许研究人员在本地运行蛋白质结构预测，加速生物医学研究进程。",
+        "source": "DeepMind",
+        "url": "https://deepmind.com/alphafold",
+        "published_at": "2026-03-10T09:00:00+08:00"
+      },
+      {
+        "title": "微软 Copilot 集成 OpenAI 最新模型",
+        "summary": "微软宣布 Office 365 Copilot 将集成 OpenAI 最新发布的 GPT-5.4 模型，为用户提供更智能的文档处理和数据分析能力。",
+        "source": "Microsoft Blog",
+        "url": "https://blogs.microsoft.com/ai",
+        "published_at": "2026-03-10T10:30:00+08:00"
       }
     ],
     "world": [
@@ -30,6 +44,20 @@
         "source": "Reuters",
         "url": "https://reuters.com/climate",
         "published_at": "2026-03-10T07:00:00+08:00"
+      },
+      {
+        "title": "欧盟通过人工智能监管法案",
+        "summary": "欧盟议会正式通过《人工智能法案》，对高风险 AI 应用实施严格监管，要求透明度和人类监督机制。",
+        "source": "BBC",
+        "url": "https://bbc.com/news/technology",
+        "published_at": "2026-03-10T11:00:00+08:00"
+      },
+      {
+        "title": "日本央行结束负利率政策",
+        "summary": "日本央行宣布结束长达八年的负利率政策，将基准利率上调至 0.1%，标志着货币政策正常化的开始。",
+        "source": "Nikkei",
+        "url": "https://asia.nikkei.com",
+        "published_at": "2026-03-10T08:30:00+08:00"
       }
     ],
     "finance": [
@@ -39,6 +67,20 @@
         "source": "Bloomberg",
         "url": "https://bloomberg.com/markets",
         "published_at": "2026-03-10T09:00:00+08:00"
+      },
+      {
+        "title": "纳斯达克指数创历史新高",
+        "summary": "受 AI 科技股推动，纳斯达克综合指数突破 20000 点大关，创历史新高，投资者对人工智能前景持续看好。",
+        "source": "CNBC",
+        "url": "https://cnbc.com/markets",
+        "published_at": "2026-03-10T10:00:00+08:00"
+      },
+      {
+        "title": "比特币突破 15 万美元",
+        "summary": "比特币价格首次突破 15 万美元关口，机构投资者持续入场推动加密货币市场走强。",
+        "source": "CoinDesk",
+        "url": "https://coindesk.com",
+        "published_at": "2026-03-10T07:30:00+08:00"
       }
     ],
     "llm": [
@@ -55,6 +97,27 @@
         "source": "Moonshot AI",
         "url": "https://moonshot.cn",
         "published_at": "2026-03-10T08:30:00+08:00"
+      },
+      {
+        "title": "Meta Llama 4 开源发布",
+        "summary": "Meta 发布 Llama 4 系列开源大模型，包含 7B、13B、70B 三种规格，性能接近闭源模型水平。",
+        "source": "Meta AI",
+        "url": "https://ai.meta.com/llama",
+        "published_at": "2026-03-10T11:30:00+08:00"
+      },
+      {
+        "title": "阿里通义千问 Qwen-3 发布",
+        "summary": "阿里巴巴发布通义千问 Qwen-3 模型，在代码生成和多语言理解方面实现重大突破。",
+        "source": "阿里云",
+        "url": "https://tongyi.aliyun.com",
+        "published_at": "2026-03-10T09:30:00+08:00"
+      },
+      {
+        "title": "字节跳动豆包大模型 2.0 上线",
+        "summary": "字节跳动发布豆包大模型 2.0 版本，在创意写作和内容理解方面表现突出。",
+        "source": "字节跳动",
+        "url": "https://www.doubao.com",
+        "published_at": "2026-03-10T12:00:00+08:00"
       }
     ]
   }
