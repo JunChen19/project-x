@@ -1,22 +1,62 @@
 {
-  "lastUpdated": "2026-03-10T17:39:56.900277+08:00",
+  "lastUpdated": "2026-03-10T17:51:30.000000+08:00",
   "hero": {
-    "title": "OpenAI 发布 GPT-5.4 多模态模型",
-    "summary": "OpenAI 今日宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破，错误率比 GPT-5.2 降低 33%。",
-    "source": "OpenAI Blog",
-    "url": "https://openai.com/blog/gpt-5-4",
-    "published_at": "2026-03-10T17:39:56.899153+08:00",
-    "id": "68c0cd705c93"
+    "title": "xAI 未能阻止加州 AI 数据披露法律生效",
+    "summary": "Elon Musk 旗下的 xAI 公司试图通过法院临时禁令阻止加州 AI 数据披露法律的执行，但加州联邦法院周四驳回了这一请求。该法律要求生成式 AI 公司公开其训练数据集的摘要，已于 1 月 1 日生效。",
+    "source": "Insurance Journal",
+    "url": "https://www.insurancejournal.com/news/west/2026/03/06/860753.htm",
+    "published_at": "2026-03-06T06:00:09+08:00",
+    "id": "ai-001"
   },
   "categories": {
     "ai": [
       {
-        "title": "OpenAI 发布 GPT-5.4 多模态模型",
-        "summary": "OpenAI 今日宣布推出 GPT-5.4 系列模型，包括标准版、Thinking 版和 Pro 版。新模型在推理准确性和多模态理解方面取得重大突破，错误率比 GPT-5.2 降低 33%。",
-        "source": "OpenAI Blog",
-        "url": "https://openai.com/blog/gpt-5-4",
-        "published_at": "2026-03-10T17:39:56.899153+08:00",
-        "id": "68c0cd705c93"
+        "title": "xAI 未能阻止加州 AI 数据披露法律生效",
+        "summary": "Elon Musk 旗下的 xAI 公司试图通过法院临时禁令阻止加州 AI 数据披露法律的执行，但加州联邦法院周四驳回了这一请求。该法律要求生成式 AI 公司公开其训练数据集的摘要，已于 1 月 1 日生效。",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/west/2026/03/06/860753.htm",
+        "published_at": "2026-03-06T06:00:09+08:00",
+        "id": "ai-001"
+      },
+      {
+        "title": "Anthropic 研究显示 AI 对就业影响有限",
+        "summary": "Anthropic 经济学家最新研究发现，AI 对劳动者的实际经济影响有限。在丹麦进行的调查显示，AI 对就业和工资没有产生显著影响，与此前预测 AI 将取代大量白领工作的警告形成对比。",
+        "source": "The Register",
+        "url": "https://www.theregister.com/2026/03/07/anthropic_bods_rework_ai_damage/",
+        "published_at": "2026-03-07T00:07:00+08:00",
+        "id": "ai-002"
+      },
+      {
+        "title": "前谷歌研究员创立公司用 AI 改造日本机器人产业",
+        "summary": "由前谷歌研究员创立的 Integral AI Inc. 正在与丰田、索尼、本田、日产等日本巨头合作，开发面向工业机器人和自动驾驶汽车的 AI 模型。该公司已与电装公司合作多年，通过演示教学让工业机器人学习新技能。",
+        "source": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/daily-labor-report/ex-google-researcher-seeks-to-transform-japans-robots-with-ai",
+        "published_at": "2026-03-09T04:15:00+08:00",
+        "id": "ai-003"
+      },
+      {
+        "title": "Law.co 发布企业律所 AI 应用报告",
+        "summary": "AI 法律技术平台 Law.co 发布《企业律所 AI 应用报告》，分析了 AI 如何改变企业法律服务并创造增长机会。研究发现，采用 AI 的律所正在扩大与传统服务模式之间的性能差距。",
+        "source": "Manila Times",
+        "url": "https://www.manilatimes.net/2026/03/06/tmt-newswire/plentisoft/legal-ai-platform-releases-law-firm-ai-report-for-business-corporate-lawyers-showcasing-growth-trends-opportunities/2294594/amp",
+        "published_at": "2026-03-06T03:16:05+08:00",
+        "id": "ai-004"
+      },
+      {
+        "title": "NC State 将举办农业 AI 全国会议",
+        "summary": "北卡罗来纳州立大学将于 3 月 31 日至 4 月 2 日举办 2026 农业人工智能全国会议，汇聚研究人员、行业代表、技术开发商和政府部门，探讨 AI 在农业系统中的新兴应用。",
+        "source": "Global Agriculture",
+        "url": "https://www.global-agriculture.com/global-agriculture/nc-state-to-host-national-conference-on-artificial-intelligence-in-agriculture/",
+        "published_at": "2026-03-05T12:38:50+08:00",
+        "id": "ai-005"
+      },
+      {
+        "title": "OpenAI 暂停 ChatGPT 成人模式开发",
+        "summary": "OpenAI 宣布无限期暂停 ChatGPT 成人模式的开发，以专注于更高优先级的项目。该决定反映了公司在产品路线图上的战略调整。",
+        "source": "DesignTAXI",
+        "url": "https://community.designtaxi.com/topic/24740-openai-cuffs-chatgpt-adult-mode-indefinitely-to-fulfill-higher-priorities/",
+        "published_at": "2026-03-10T05:38:47+08:00",
+        "id": "ai-006"
       }
     ],
     "world": [],
