@@ -518,6 +518,10 @@
                 if (data.hero.image) {
                     heroImage.src = data.hero.image;
                     heroImage.alt = data.hero.title;
+                    // 图片加载失败时隐藏，显示背景渐变色
+                    heroImage.onerror = function() {
+                        this.style.display = 'none';
+                    };
                 } else {
                     // 默认渐变背景图
                     heroImage.style.display = 'none';
