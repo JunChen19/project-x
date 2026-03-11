@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T09:06:42.744243+08:00",
+  "lastUpdated": "2026-03-11T09:54:20.504315+08:00",
   "hero": {
     "title": "Anthropic 发布 Claude Opus 4.6",
     "summary": "Anthropic 发布 Claude Opus 4.6，这是 Claude 系列中最强大的模型。新模型在复杂推理、长文档分析和代码生成任务上达到新的高度。Claude Opus 4.6 采用了改进的宪法 AI 训练方法，在保持高性能的同时提升了安全性和对齐性。模型支持 300K 上下文窗口，并引入了新的推理链可视化功能。",
@@ -18,7 +18,27 @@
         "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
         "published_at": "2026-03-10",
         "id": "67f28fbb4cb9",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/yann-lecun-ami-labs.jpg"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2261869274.jpg?resize=1200,800",
+        "full_content": "AMI Labs是图灵奖获得者Yann LeCun在离开Meta后共同创立的新合资企业，已筹集$ 10.3亿，投资前估值为$ 35亿。AMI正在研究世界模型，或从现实中学习的人工智能，而不仅仅是从语言中学习。\n\n与生成式人工智能相比，此类别的玩家更少，但可能不会持续很长时间。“我的预测是， ‘世界模型’将成为下一个流行词，” AMI实验室首席执行官Alexandre LeBrun告诉TechCrunch。“在六个月内，每家公司都将自称为筹集资金的世界模范。”\n\nLeBrun笑着说，因为他认为AMI Labs与众不同：它的目标是了解现实世界。这可能在医疗保健领域有应用， AMI实验室的第一个合作伙伴将是Nabla ，他现在是Nabla的数字健康创业公司的主席。\n\n作为Nabla的首席执行官， LeBrun就大型语言模型（ LLM ）的局限性得出了与LeCun相同的结论，在这些模型中，幻觉可能会产生危及生命的影响。但他也知道，这家初创公司需要一段时间才能提供基于JEPA （即LeCun在2022年提出的联合嵌入式预测架构）的可行替代方案。\n\n“AMI实验室是一个非常雄心勃勃的项目，因为它始于基础研究。LeBrun说：“这不是典型的应用人工智能初创公司，它可以在三个月内发布产品，在六个月内实现收入，并在12个月内实现1000万美元的[年度经常性收入]。”相比之下，世界模型从理论到商业应用可能需要数年时间。\n\n尽管如此，开发世界模式的公司已经吸引了大量的检查。SpAItial筹集了1300万美元的种子轮融资--这对一家欧洲初创公司来说异常庞大，而仅上个月，李飞飞的世界实验室(Fei-Fei Li)就获得了高达10亿美元的融资。现在， AMI实验室以比最初传闻更多的资金加入俱乐部。\n\n据报道，这家法国人工智能实验室去年12月只筹集了5亿欧元，但最终筹集了约8.9亿欧元，这可能要归功于其团队。除了LeCun作为董事长和LeBrun作为企业家的记录外，它还拥有Meta的欧洲副总裁Laurent Solly作为首席运营官和知名研究人员Saining Xie作为首席科学官， Pascale Fung作为首席研究和创新官， Michael Rabbat作为世界模型副总裁。\n\nTechCrunch创始人峰会最多可节省300 $或30%\n\n根据LeBrun的说法，高兴趣让这家初创公司有机会在预期一致性和背景方面选择投资者。本轮融资由Cathay Innovation、Greycroft、Hiro Capital、HV Capital和Bezos Expeditions共同牵头，其他几家基金和与行业相关的支持者以及Tim和Rosemary Berners-Lee、Jim Breyer、Mark Cuban、Mark Leslie、Xavier Niel和Eric Schmidt等个人参与。\n\n除了增值之外，这笔资金将为AMI Labs的两个主要成本中心（计算和人才）提供有意义的资金。LeBrun表示，他将优先考虑质量而不是数量，以便在四个关键地点建立AMI实验室的团队：总部位于巴黎； LeCun在纽约大学任教的纽约；其Rabbat所在的蒙特利尔；以及在新加坡，既要招募人工智能人才，又要接近亚洲的未来客户。\n\n虽然AMI Labs暂时没有产生收入的计划，但它仍然计划在早期与潜在客户接触。“我们正在开发寻求了解世界的世界模型，你不能把它锁在实验室里。在某些时候，我们需要使用真实数据和实际评估将模型置于现实世界中，” LeBrun说。\n\n时机成熟时， AMI实验室将转向合作伙伴来探索部署--Nabla是第一个希望访问这些早期模型的合作伙伴，但肯定不是最后一个。“这可能解释了某些行业参与者和潜在合作伙伴在投资回合中的存在和强烈兴趣，” LeBrun说。\n\n除了主要投资者和天使之外， AMI Labs还得到了英伟达、三星、Sea、淡马锡和丰田风险投资公司以及法国玩家协会Familiale Mulliez、工业集团Marcel Dassault和Publicis Groupe的支持。Aglaé Lab、Alpha Intelligence Capital、Artémis、Bpifrance Digital Venture、New Legacy Ventures、SBVA和ZEBOX Ventures也参与其中。\n\n这些投资可能需要一段时间才能转化为商业应用。但是，为了坚持LeCun的信念， AMI Labs将一如既往地发表论文。\n\n“我们还将制作大量开源代码，” LeBrun说，他也曾在Meta的人工智能研究实验室FAIR工作过。虽然公开研究“越来越少见” ，但这家初创公司的创始人仍然相信它。“我们认为事情在开放时发展得更快，在我们周围建立一个社区和研究生态系统符合我们的最大利益。”",
+        "content_paragraphs": [
+          "AMI Labs是图灵奖获得者Yann LeCun在离开Meta后共同创立的新合资企业，已筹集$ 10.3亿，投资前估值为$ 35亿。AMI正在研究世界模型，或从现实中学习的人工智能，而不仅仅是从语言中学习。",
+          "与生成式人工智能相比，此类别的玩家更少，但可能不会持续很长时间。“我的预测是， ‘世界模型’将成为下一个流行词，” AMI实验室首席执行官Alexandre LeBrun告诉TechCrunch。“在六个月内，每家公司都将自称为筹集资金的世界模范。”",
+          "LeBrun笑着说，因为他认为AMI Labs与众不同：它的目标是了解现实世界。这可能在医疗保健领域有应用， AMI实验室的第一个合作伙伴将是Nabla ，他现在是Nabla的数字健康创业公司的主席。",
+          "作为Nabla的首席执行官， LeBrun就大型语言模型（ LLM ）的局限性得出了与LeCun相同的结论，在这些模型中，幻觉可能会产生危及生命的影响。但他也知道，这家初创公司需要一段时间才能提供基于JEPA （即LeCun在2022年提出的联合嵌入式预测架构）的可行替代方案。",
+          "“AMI实验室是一个非常雄心勃勃的项目，因为它始于基础研究。LeBrun说：“这不是典型的应用人工智能初创公司，它可以在三个月内发布产品，在六个月内实现收入，并在12个月内实现1000万美元的[年度经常性收入]。”相比之下，世界模型从理论到商业应用可能需要数年时间。",
+          "尽管如此，开发世界模式的公司已经吸引了大量的检查。SpAItial筹集了1300万美元的种子轮融资--这对一家欧洲初创公司来说异常庞大，而仅上个月，李飞飞的世界实验室(Fei-Fei Li)就获得了高达10亿美元的融资。现在， AMI实验室以比最初传闻更多的资金加入俱乐部。",
+          "据报道，这家法国人工智能实验室去年12月只筹集了5亿欧元，但最终筹集了约8.9亿欧元，这可能要归功于其团队。除了LeCun作为董事长和LeBrun作为企业家的记录外，它还拥有Meta的欧洲副总裁Laurent Solly作为首席运营官和知名研究人员Saining Xie作为首席科学官， Pascale Fung作为首席研究和创新官， Michael Rabbat作为世界模型副总裁。",
+          "TechCrunch创始人峰会最多可节省300 $或30%",
+          "根据LeBrun的说法，高兴趣让这家初创公司有机会在预期一致性和背景方面选择投资者。本轮融资由Cathay Innovation、Greycroft、Hiro Capital、HV Capital和Bezos Expeditions共同牵头，其他几家基金和与行业相关的支持者以及Tim和Rosemary Berners-Lee、Jim Breyer、Mark Cuban、Mark Leslie、Xavier Niel和Eric Schmidt等个人参与。",
+          "除了增值之外，这笔资金将为AMI Labs的两个主要成本中心（计算和人才）提供有意义的资金。LeBrun表示，他将优先考虑质量而不是数量，以便在四个关键地点建立AMI实验室的团队：总部位于巴黎； LeCun在纽约大学任教的纽约；其Rabbat所在的蒙特利尔；以及在新加坡，既要招募人工智能人才，又要接近亚洲的未来客户。",
+          "虽然AMI Labs暂时没有产生收入的计划，但它仍然计划在早期与潜在客户接触。“我们正在开发寻求了解世界的世界模型，你不能把它锁在实验室里。在某些时候，我们需要使用真实数据和实际评估将模型置于现实世界中，” LeBrun说。",
+          "时机成熟时， AMI实验室将转向合作伙伴来探索部署--Nabla是第一个希望访问这些早期模型的合作伙伴，但肯定不是最后一个。“这可能解释了某些行业参与者和潜在合作伙伴在投资回合中的存在和强烈兴趣，” LeBrun说。",
+          "除了主要投资者和天使之外， AMI Labs还得到了英伟达、三星、Sea、淡马锡和丰田风险投资公司以及法国玩家协会Familiale Mulliez、工业集团Marcel Dassault和Publicis Groupe的支持。Aglaé Lab、Alpha Intelligence Capital、Artémis、Bpifrance Digital Venture、New Legacy Ventures、SBVA和ZEBOX Ventures也参与其中。",
+          "这些投资可能需要一段时间才能转化为商业应用。但是，为了坚持LeCun的信念， AMI Labs将一如既往地发表论文。",
+          "“我们还将制作大量开源代码，” LeBrun说，他也曾在Meta的人工智能研究实验室FAIR工作过。虽然公开研究“越来越少见” ，但这家初创公司的创始人仍然相信它。“我们认为事情在开放时发展得更快，在我们周围建立一个社区和研究生态系统符合我们的最大利益。”"
+        ],
+        "original_title": "Yann LeCun’s AMI Labs raises $1.03B to build world models",
+        "original_content": "AMI Labs, the new venture co-founded by Turing Award winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation. AMI is working on world models, or AI that learns from reality, not just from language.\n\nThis category has fewer players than generative AI, but maybe not for long. “My prediction is that ‘world models’ will be the next buzzword,” AMI Labs CEO Alexandre LeBrun told TechCrunch. “In six months, every company will call itself a world model to raise funding.”\n\nLeBrun said this with a smile because he thinks AMI Labs is fundamentally different: Its goal is to understand the real world. This could have applications in healthcare, where AMI Labs’ first partner will be Nabla, the digital health startup of which he’s now chairman.\n\nAs CEO of Nabla, LeBrun had reached the same conclusion as LeCun on the limitations of large language models (LLMs) where hallucinations could have life-threatening repercussions. But he also knows it will take a while for the startup to offer a viable alternative based on JEPA, or Joint Embedding Predictive Architecture, proposed by LeCun in 2022.\n\n“AMI Labs is a very ambitious project, because it starts with fundamental research. It’s not your typical applied AI startup that can release a product in three months, have revenue in six months, and make $10 million in [annual recurring revenue] in 12 months,” LeBrun said. In contrast, it could take years for world models to go from theory to commercial applications.\n\nDespite this time horizon, companies developing world models have attracted big checks. SpAItial raised a $13 million seed round — unusually large for a European startup, while Fei-Fei Li’s World Labs secured a whopping $1 billion last month alone. Now AMI Labs joins the club with more funding than initially rumored.\n\nThe French AI lab was reportedly seeking just €500 million last December, but ended up raising some €890 million, likely thanks to its team. In addition to LeCun’s involvement as chairman and to LeBrun’s track record as an entrepreneur, it also boasts Meta’s VP for Europe Laurent Solly as COO and high-profile researchers Saining Xie as chief science officer, Pascale Fung as chief research and innovation officer, and Michael Rabbat as VP of world models.\n\nSave up to $300 or 30% to TechCrunch Founder Summit\n\nAccording to LeBrun, high interest gave the startup a chance to have its pick of investors, both in terms of expectation alignment and background. The round was co-led by Cathay Innovation, Greycroft, Hiro Capital, HV Capital, and Bezos Expeditions, with participation from several other funds and industry-tied backers, as well as individuals, including Tim and Rosemary Berners-Lee, Jim Breyer, Mark Cuban, Mark Leslie, Xavier Niel, and Eric Schmidt.\n\nValue-add aside, this funding will give AMI Labs some meaningful runway to bankroll its two main cost centers: compute and talent. LeBrun said he will prioritize quality over quantity to build AMI Labs’ team in four key locations: Paris, where it is headquartered; New York, where LeCun teaches at NYU; in Montreal, where its Rabbat is based; and in Singapore, both to recruit AI talent and to be close to future clients in Asia.\n\nAlthough AMI Labs has no plans to generate revenue for the time being, it still plans to engage with prospective customers early on. “We are developing world models that seek to understand the world, and you can’t do that locked up in a lab. At some point, we need to put the model in a real-world situation with real data and real evaluations,” LeBrun said.\n\nWhen the time comes, AMI Labs will turn to partners to explore deployments — and Nabla is the first disclosed partner expecting to access these early models, but definitely not the last. “This may explain the presence and strong interest of certain industrial players and potential partners in the investment round,” LeBrun said.\n\nIn addition to its lead investors and angels, AMI Labs is backed by Nvidia, Samsung, Sea, Temasek, and Toyota Ventures, as well as French players Association Familiale Mulliez, Groupe Industriel Marcel Dassault, and Publicis Groupe. Aglaé Lab, Alpha Intelligence Capital, Artémis, Bpifrance Digital Venture, New Legacy Ventures, SBVA, and ZEBOX Ventures also participated.\n\nThese investments may take a while to turn into commercial applications. But staying true to LeCun’s beliefs, AMI Labs will publish papers as it goes.\n\n“We will also make a lot of code open source,” said LeBrun, who had also worked at Meta’s AI research laboratory, FAIR. While open research is “increasingly rare,” this startup’s founders still believe in it. “We think things move faster when they’re open, and it’s in our best interest to build a community and a research ecosystem around us.”"
       },
       {
         "title": "DeepRare AI 系统在罕见病诊断中超越医生",
@@ -27,7 +47,33 @@
         "url": "https://thenextweb.com/news/how-an-ai-system-beat-experienced-doctors-at-diagnosing-rare-diseases",
         "published_at": "2026-03-07",
         "id": "0f3c4d77eeb6",
-        "image": "https://thenextweb.com/wp-content/uploads/2026/03/deeprare-ai-diagnosis.jpg"
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FDeepRare-outperforms-doctors-in-a-rare-disease-diagnosis-study.png&signature=0cd580191f4cfbd267d5d32c87898cdd",
+        "full_content": "DeepRare是一个集成了40种专业工具的代理人工智能系统，在《自然》杂志上发表的一项头对头研究中，它在识别罕见疾病方面的表现优于医学专家。\n\n对于数百万患有罕见疾病的人来说，诊断之路是一个迷宫。多年来，有时是几十年来，患者在全科医生和专家之间反弹，将教科书演示之外的症状拼凑在一起。\n\n80%的罕见疾病有遗传起源，但大多数在生物损伤过多之前未被诊断出来。瓶颈不是缺乏数据，而是在医用大海捞针。\n\n本月发表在《自然》杂志上的一项新研究表明，人工智能可能会加速这种狩猎。上海交通大学人工智能学院和新华医院的研究人员开发了DeepRare ，这是一种旨在模仿人类医生如何通过诊断不确定性进行推理的人工智能系统。\n\n在与五位经验丰富的医生（每位医生都有十多年的实践经验）的直接比较中，该系统全面实现了更高的准确性。\n\n这些数字令人震惊。DeepRare在第一个建议中正确识别该疾病的比例为64.4% ，而医生为54.6%。当给出三个而不是一个建议时，人工智能系统在79%的病例中取得了诊断成功，而人类专家的诊断成功率为66%。\n\n至关重要的是，医生在95.4%的时间内支持人工智能的推理，这表明该系统不仅得出了正确的结论，而且以经验丰富的临床医生认为有说服力和医学上合理的方式得出了正确的结论。\n\nDeepRare与早期诊断AI的区别在于其架构。该系统不采用黑盒分类模型，而是集成了40种专门的数字工具，并遵循明确推理的工作流程。\n\n它形成诊断假设，根据患者证据对其进行测试，搜索全球医学文献数据库，分析遗传变异，并在对可能性进行排序之前反复修改其结论。\n\n这个过程反映了人类诊断师所采取的认知步骤，但拥有人类无法比拟的全部医学知识和计算速度。\n\n系统已超出实验室范围。自2025年7月以来， DeepRare已部署在在线诊断平台上，全球有600多家医疗机构注册使用。\n\n研究小组计划使用20,000个真实病例进一步验证该系统，并启动全球罕见病诊断联盟。值得注意的是，作者强调，该系统不是为了取代临床医生，而是为了增强诊断工作流程，这是一种既承认人工智能的技术局限性又承认医学中不可简化的人类因素的保障措施。\n\n对患者的影响是深远的。全球约有3亿人患有罕见疾病，平均诊断漫游时间长达五年或更长。\n\n诊断延迟的每一年都是不确定、错误治疗和累积器官损伤的一年。一个人工智能系统可以从这个时间线上缩短几周或几个月，并揭示出可能被忽视的可能性，这可能会重塑患有罕见疾病的早期经历。\n\n故事作者\n                                    \n\n\n                                            Ana-Maria Stanciuc\n\nQUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS\n\n每周在您的收件箱中获取最重要的技术新闻。\n\nMutable Tactics筹集了180万欧元的种子基金，用于开发具有人工智能的无人机自动化\n\nPLD Space筹集了1.8亿欧元的C轮融资，以扩大欧洲的商业发射能力\n\nAntiverse筹集了$ 930万A轮融资，以扩大加的夫人工智能驱动的抗体发现规模\n\nOutpost Bio筹集了350万美元，用于构建人工智能驱动的人体微生物学模型",
+        "content_paragraphs": [
+          "DeepRare是一个集成了40种专业工具的代理人工智能系统，在《自然》杂志上发表的一项头对头研究中，它在识别罕见疾病方面的表现优于医学专家。",
+          "对于数百万患有罕见疾病的人来说，诊断之路是一个迷宫。多年来，有时是几十年来，患者在全科医生和专家之间反弹，将教科书演示之外的症状拼凑在一起。",
+          "80%的罕见疾病有遗传起源，但大多数在生物损伤过多之前未被诊断出来。瓶颈不是缺乏数据，而是在医用大海捞针。",
+          "本月发表在《自然》杂志上的一项新研究表明，人工智能可能会加速这种狩猎。上海交通大学人工智能学院和新华医院的研究人员开发了DeepRare ，这是一种旨在模仿人类医生如何通过诊断不确定性进行推理的人工智能系统。",
+          "在与五位经验丰富的医生（每位医生都有十多年的实践经验）的直接比较中，该系统全面实现了更高的准确性。",
+          "这些数字令人震惊。DeepRare在第一个建议中正确识别该疾病的比例为64.4% ，而医生为54.6%。当给出三个而不是一个建议时，人工智能系统在79%的病例中取得了诊断成功，而人类专家的诊断成功率为66%。",
+          "至关重要的是，医生在95.4%的时间内支持人工智能的推理，这表明该系统不仅得出了正确的结论，而且以经验丰富的临床医生认为有说服力和医学上合理的方式得出了正确的结论。",
+          "DeepRare与早期诊断AI的区别在于其架构。该系统不采用黑盒分类模型，而是集成了40种专门的数字工具，并遵循明确推理的工作流程。",
+          "它形成诊断假设，根据患者证据对其进行测试，搜索全球医学文献数据库，分析遗传变异，并在对可能性进行排序之前反复修改其结论。",
+          "这个过程反映了人类诊断师所采取的认知步骤，但拥有人类无法比拟的全部医学知识和计算速度。",
+          "系统已超出实验室范围。自2025年7月以来， DeepRare已部署在在线诊断平台上，全球有600多家医疗机构注册使用。",
+          "研究小组计划使用20,000个真实病例进一步验证该系统，并启动全球罕见病诊断联盟。值得注意的是，作者强调，该系统不是为了取代临床医生，而是为了增强诊断工作流程，这是一种既承认人工智能的技术局限性又承认医学中不可简化的人类因素的保障措施。",
+          "对患者的影响是深远的。全球约有3亿人患有罕见疾病，平均诊断漫游时间长达五年或更长。",
+          "诊断延迟的每一年都是不确定、错误治疗和累积器官损伤的一年。一个人工智能系统可以从这个时间线上缩短几周或几个月，并揭示出可能被忽视的可能性，这可能会重塑患有罕见疾病的早期经历。",
+          "故事作者\n                                    \n\n\n                                            Ana-Maria Stanciuc",
+          "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+          "每周在您的收件箱中获取最重要的技术新闻。",
+          "Mutable Tactics筹集了180万欧元的种子基金，用于开发具有人工智能的无人机自动化",
+          "PLD Space筹集了1.8亿欧元的C轮融资，以扩大欧洲的商业发射能力",
+          "Antiverse筹集了$ 930万A轮融资，以扩大加的夫人工智能驱动的抗体发现规模",
+          "Outpost Bio筹集了350万美元，用于构建人工智能驱动的人体微生物学模型"
+        ],
+        "original_title": "How an AI system beat experienced doctors at diagnosing rare diseases",
+        "original_content": "DeepRare, an agentic AI system integrating 40 specialised tools, outperformed medical specialists in identifying rare conditions in a head-to-head study published in Nature.\n\nFor millions of people with rare diseases, the path to diagnosis is a labyrinth. Patients bounce between generalist GPs and specialists across years, sometimes decades, piecing together symptoms that fall outside textbook presentations.\n\nEighty per cent of rare diseases have a genetic origin, yet most go undiagnosed until too much biological damage has occurred. The bottleneck is not lack of data, it’s finding the needle in the medical haystack.\n\nA new study published in Nature this month suggests that artificial intelligence may accelerate that hunt. Researchers at Shanghai Jiao Tong University’s School of Artificial Intelligence and Xinhua Hospital developed DeepRare, an AI system designed to mimic how human doctors reason through diagnostic uncertainty.\n\nIn a head-to-head comparison with five experienced physicians, each with more than a decade of practice, the system achieved higher accuracy across the board.\n\nThe numbers are striking. DeepRare correctly identified the disease on its first suggestion 64.4 per cent of the time, compared to 54.6 per cent for the doctors. When given three suggestions instead of one, the AI system achieved diagnostic success in 79 per cent of cases versus 66 per cent for the human specialists.\n\nCrucially, the physicians endorsed the AI’s reasoning 95.4 per cent of the time, suggesting the system not only reaches correct conclusions, but does so in ways that experienced clinicians find persuasive and medically sound.\n\nWhat distinguishes DeepRare from earlier diagnostic AI is its architecture. Rather than applying a black-box classification model, the system integrates 40 specialised digital tools and follows an explicitly reasoned workflow.\n\nIt forms diagnostic hypotheses, tests them against patient evidence, searches global medical literature databases, analyses genetic variants, and revises its conclusions iteratively before ranking possibilities.\n\nThe process mirrors the cognitive steps a human diagnostician takes, but with access to the entirety of medical knowledge and computational speed humans cannot match.\n\nThe system has already moved beyond the laboratory. Since July 2025, DeepRare has been deployed on an online diagnostic platform, with more than 600 medical institutions worldwide registered to use it.\n\nThe research team plans to validate the system further using 20,000 real-world cases and to launch a global rare disease diagnostic alliance. Notably, the authors emphasise that the system is not intended to replace clinicians, but to augment diagnostic workflows, a safeguard that acknowledges both the technical limits of AI and the irreducible human element in medicine.\n\nThe implications for patients are profound. Approximately 300 million people worldwide are affected by rare diseases, and the average diagnostic odyssey stretches to five years or longer.\n\nEach year of diagnostic delay is a year of uncertainty, wrong treatments, and accumulating organ damage. An AI system that can trim weeks or months from that timeline, and surface possibilities that might otherwise be overlooked, could reshape the early experience of living with a rare condition.\n\nStory by\n                                    \n\n\n                                            Ana-Maria Stanciuc\n\nDigital Marketing Specialist with 10+ years of experience in content writing, content strategy, campaign execution, SEO, and marketing autom\n\n                                                                                            \n                                                    (show all)\n                                                \n\n\n                                            Digital Marketing Specialist with 10+ years of experience in content writing, content strategy, campaign execution, SEO, and marketing automation. Adept at managing cross-functional projects in both B2B (SaaS) and B2C (hospitality, eCommerce) environments. Skilled in developing and optimizing digital campaigns, lead generation funnels, email marketing flows, and website content.\n\nGet the most important tech news in your inbox each week.\n\nMutable Tactics raises  €1.8 million in a pre-seed fund to develop drone automation with AI\n\nPLD Space raises €180M Series C to scale Europe’s commercial launch capabilities\n\nAntiverse raises $9.3M Series A to scale AI-driven antibody discovery from Cardiff\n\nOutpost Bio raises $3.5M to build AI-driven models of human microbiology"
       },
       {
         "title": "律师事务所 AI 采用缓慢，但法律专业人士已在使用",
@@ -36,7 +82,14 @@
         "url": "https://www.law.com/legaltechnews/2026/03/05/law-firms-are-still-slow-to-adopt-gen-ai/",
         "published_at": "2026-03-05",
         "id": "0a3fdee77e13",
-        "image": "https://images.law.com/contrib/content/uploads/sites/291/2026/03/law-firm-ai-adoption.jpg"
+        "image": "https://images.law.com/contrib/content/uploads/sites/291/2026/03/law-firm-ai-adoption.jpg",
+        "full_content": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  07 HOURS 06 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+        "content_paragraphs": [
+          "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  07 HOURS 06 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        ],
+        "original_title": "Law Firms Are Still Slow to Adopt Gen AI Despite Use Among Legal Professionals",
+        "original_content": "Real-time alerts on new state and federal litigation, plus unlimited complaint access, expert case summaries and AI-enhanced trend detection.",
+        "author": ""
       },
       {
         "title": "Harvey 与微软合作集成 Copilot",
@@ -45,7 +98,14 @@
         "url": "https://www.law.com/legaltechnews/2026/03/05/the-metadata-trap-why-data-privacy-matters-when-lawyers-use-ai/",
         "published_at": "2026-03-04",
         "id": "67529ae70ab3",
-        "image": "https://images.law.com/contrib/content/uploads/sites/291/2026/03/harvey-microsoft-copilot.jpg"
+        "image": "https://images.law.com/contrib/content/uploads/sites/291/2026/03/harvey-microsoft-copilot.jpg",
+        "full_content": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  07 HOURS 05 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+        "content_paragraphs": [
+          "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  07 HOURS 05 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        ],
+        "original_title": "The Metadata Trap: Why Data Privacy Matters When Lawyers Use AI",
+        "original_content": "Real-time alerts on new state and federal litigation, plus unlimited complaint access, expert case summaries and AI-enhanced trend detection.",
+        "author": ""
       },
       {
         "title": "NetDocuments 推出新搜索工具'Smart Answers'",
@@ -54,7 +114,13 @@
         "url": "https://www.law.com/legaltechnews/2026/03/04/netdocuments-launches-smart-answers/",
         "published_at": "2026-03-04",
         "id": "aacee5a7d62a",
-        "image": "https://images.law.com/contrib/content/uploads/sites/291/2026/03/netdocuments-smart-answers.jpg"
+        "image": "https://images.law.com/contrib/content/uploads/sites/291/2026/03/netdocuments-smart-answers.jpg",
+        "full_content": "法律技术的报告和专家分析，重点关注法律部门、律师事务所和科技公司需要了解的内容",
+        "content_paragraphs": [
+          "法律技术的报告和专家分析，重点关注法律部门、律师事务所和科技公司需要了解的内容"
+        ],
+        "original_title": "Page Not Found - Law.com",
+        "original_content": "Reporting, and expert analysis of legal technology with a focus onwhat legal departments, law firms, and tech companies need to know"
       },
       {
         "title": "Insilico Medicine 与 Liquid AI 合作开发药物发现基础模型",
